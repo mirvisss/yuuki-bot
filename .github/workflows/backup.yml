@@ -36,7 +36,10 @@ jobs:
         run: |
           set -euo pipefail
           stamp=$(date -u +%Y-%m-%d)
-          pg_dump --no-owner --no-privileges "$DB_URL" > "yuuki-$stamp.sql"
+          # node-postgres понимает sslmode=no-verify, а libpq (pg_dump) — нет,
+          # поэтому меняем его на равнозначный sslmode=require.
+          conn="${DB_URL/no-verify/require}"
+          pg_dump --no-owner --no-privileges "$conn" > "yuuki-$stamp.sql"
           size=$(wc -c < "yuuki-$stamp.sql")
           copies=$(grep -c '^COPY ' "yuuki-$stamp.sql" || true)
           echo "дамп: $size байт, таблиц с данными (COPY): $copies"
