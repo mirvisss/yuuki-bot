@@ -5,7 +5,7 @@
 ```
 GitHub (код) ──► Render (запускает бота 24/7, free-инстанс, Docker)
                     ▲
-GitHub Actions ─────┘  раз в 10 минут пингует бота, чтобы Render его не усыплял
+GitHub Actions ─────┘  раз в 5 минут пингует бота, чтобы Render его не усыплял
 База данных: Aiven PostgreSQL — та же, что и раньше (данные не потерялись)
 ```
 
@@ -18,7 +18,7 @@ GitHub Actions ─────┘  раз в 10 минут пингует бот
 | Адрес бота | Render | https://yuuki-bot-iu6b.onrender.com |
 | Переменные окружения | Render → Environment | `BOT_TOKEN`, `CLIENT_ID`, `DATABASE_URL`, `GROQ_API_KEY`, `SERPAPI_API_KEY`, `BYTEZ_API_KEY`, `TENOR_API_KEY`, `BOT_LOCALE=ru` |
 | База данных | Aiven | берётся из `DATABASE_URL`; таблицы уже созданы |
-| Не спать | GitHub Actions | `.github/workflows/keepalive.yml` — пинг раз в 10 минут |
+| Не спать | GitHub Actions | `.github/workflows/keepalive.yml` — пинг раз в 5 минут |
 | Не спать | код бота | `src/lib/keepAlive.js` — самопинг каждые 5 минут + healthcheck на порту Render |
 
 ## Как убедиться, что бот жив
