@@ -2,6 +2,7 @@
 !src/
 !src/**
 !package.json
+!package-lock.json
 !README.md
 !LICENSE
 !.gitignore
