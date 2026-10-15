@@ -39,7 +39,16 @@ jobs:
           # node-postgres понимает sslmode=no-verify, а libpq (pg_dump) — нет,
           # поэтому меняем его на равнозначный sslmode=require.
           conn="${DB_URL/no-verify/require}"
-          pg_dump --no-owner --no-privileges "$conn" > "yuuki-$stamp.sql"
+          # У базы всего 15 подключений, и бот занимает почти все — пробуем несколько раз.
+          for attempt in 1 2 3 4 5; do
+            if pg_dump --no-owner --no-privileges "$conn" > "yuuki-$stamp.sql"; then
+              echo "дамп получен с попытки $attempt"
+              break
+            fi
+            echo "попытка $attempt не удалась, ждём 30 секунд"
+            sleep 30
+            if [ "$attempt" = "5" ]; then echo "не удалось снять дамп"; exit 1; fi
+          done
           size=$(wc -c < "yuuki-$stamp.sql")
           copies=$(grep -c '^COPY ' "yuuki-$stamp.sql" || true)
           echo "дамп: $size байт, таблиц с данными (COPY): $copies"
