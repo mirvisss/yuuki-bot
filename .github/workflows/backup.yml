@@ -40,14 +40,14 @@ jobs:
           # поэтому меняем его на равнозначный sslmode=require.
           conn="${DB_URL/no-verify/require}"
           # У базы всего 15 подключений, и бот занимает почти все — пробуем несколько раз.
-          for attempt in 1 2 3 4 5; do
+          for attempt in $(seq 1 12); do
             if pg_dump --no-owner --no-privileges "$conn" > "yuuki-$stamp.sql"; then
               echo "дамп получен с попытки $attempt"
               break
             fi
-            echo "попытка $attempt не удалась, ждём 30 секунд"
-            sleep 30
-            if [ "$attempt" = "5" ]; then echo "не удалось снять дамп"; exit 1; fi
+            echo "попытка $attempt не удалась, ждём 20 секунд"
+            sleep 20
+            if [ "$attempt" = "12" ]; then echo "не удалось снять дамп"; exit 1; fi
           done
           size=$(wc -c < "yuuki-$stamp.sql")
           copies=$(grep -c '^COPY ' "yuuki-$stamp.sql" || true)
