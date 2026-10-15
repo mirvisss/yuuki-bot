@@ -1,0 +1,144 @@
+No Memes Found ||| Мемы не найдены
+No Message Found ||| Сообщение не найдено
+No News ||| Новостей нет
+No Transactions ||| Транзакций нет
+Not Enabled ||| Не включено
+Number of users to show (default: 10) ||| Сколько пользователей показать (по умолчанию: 10)
+Pickup Line ||| Пикап-фраза
+Please mention a user to mute. ||| Упомяните пользователя, чтобы замутить.
+Please mention a user to unmute. ||| Упомяните пользователя, чтобы снять мут.
+Please provide a command name. ||| Укажите название команды.
+Please provide a valid role mention, ID, or name. ||| Укажите упоминание роли, её ID или название.
+Please specify a valid voice channel. ||| Укажите голосовой канал.
+Provide a valid duration (e.g., 1h, 30m, 1d). Maximum is 28 days. ||| Укажите длительность (например, 1h, 30m, 1d). Максимум — 28 дней.
+Random Animal Fact ||| Случайный факт о животном
+Random Bear ||| Случайный медведь
+Random Bird ||| Случайная птица
+Random Bunny ||| Случайный кролик
+Random Cat ||| Случайный кот
+Random Dog ||| Случайная собака
+Random Duck ||| Случайная утка
+Random Fox ||| Случайная лиса
+Random Panda ||| Случайная панда
+Random Pig ||| Случайная свинья
+Random Possum ||| Случайный опоссум
+Random Red Panda ||| Случайная красная панда
+Random Sheep ||| Случайная овца
+Random Snake ||| Случайная змея
+Random Squirrel ||| Случайная белка
+Reaction Roles Setup - Step 2 ||| Настройка ролей по реакциям — шаг 2
+Reboot ||| Перезагрузка
+Reddit Meme ||| Мем с Reddit
+Remove Category ||| Удалить категорию
+Reopen ||| Переоткрыть
+Reset ||| Сброс
+Reset Complete ||| Сброс выполнен
+Rick Roll Detector ||| Детектор рикролла
+Rizz Logic ||| Логика «ризза»
+Role ||| Роль
+Role Given ||| Роль выдана
+Role Information ||| Информация о роли
+Role Removed ||| Роль снята
+Roles ||| Роли
+ROT13 Encoding ||| Кодирование ROT13
+Running Away ||| Убегает
+Search Error ||| Ошибка поиска
+Select the **review channel** where feedback submissions will be posted: ||| Выберите **канал отзывов**, куда будут приходить отзывы:
+Server Boosters ||| Бустеры сервера
+Server Emojis Export ||| Экспорт эмодзи сервера
+Server List ||| Список серверов
+Server roles and permissions ||| Роли и права сервера
+Server Roles Export ||| Экспорт ролей сервера
+Server Settings Export ||| Экспорт настроек сервера
+Settings Updated ||| Настройки обновлены
+Setup Complete ||| Настройка завершена
+Setup Required ||| Требуется настройка
+Setup session expired. Please run `/feedback setup` again. ||| Сессия настройки истекла. Запустите `/feedback setup` заново.
+Setup session expired. Please run `/j2c setup` again. ||| Сессия настройки истекла. Запустите `/j2c setup` заново.
+Simp Rate Checker ||| Измеритель «симп-рейта»
+Size Measurement ||| Измерение размера
+Sleeping ||| Спит
+Slowmode Disabled ||| Медленный режим выключен
+Slowmode Enabled ||| Медленный режим включён
+Smiling ||| Улыбается
+Starting Wizz Process ||| Запуск процесса взлома
+Steal Emojis ||| Украсть эмодзи
+Step 1 of 2 ||| Шаг 1 из 2
+String to Binary ||| Текст в двоичное
+Taking a Bow ||| Кланяется
+Temporary Role Added ||| Временная роль выдана
+Text Channels Export ||| Экспорт текстовых каналов
+Text to Emoji ||| Текст в эмодзи
+This is a preview of the farewell message using your profile: ||| Это предпросмотр сообщения прощания с вашим профилем:
+This is a preview of the welcome message using your profile: ||| Это предпросмотр приветствия с вашим профилем:
+This user has no roles assigned. ||| У пользователя нет ролей.
+This user is not a member of this server. ||| Этот пользователь не участник сервера.
+This user is not banned from the server. ||| Этот пользователь не забанен на сервере.
+This user is not currently timed out. ||| У этого пользователя нет тайм-аута.
+Thumbs Up ||| Палец вверх
+Ticket System Reset ||| Система тикетов сброшена
+Ticket Transcript ||| Транскрипт тикета
+Tickle Time ||| Время щекотки
+Timed out. ||| Тайм-аут.
+Truth Challenge ||| Испытание «правда»
+Try again later in {2} ||| Попробуйте позже через {2}
+Try searching for a different word or check your spelling. ||| Попробуйте другое слово или проверьте написание.
+Uncategorized ||| Без категории
+Unsupported ||| Не поддерживается
+Unsupported Coin ||| Неподдерживаемая монета
+URL Check Failed ||| Не удалось проверить ссылку
+Usage ||| Использование
+Use `farewell setup` to configure farewell messages. ||| Используйте `farewell setup`, чтобы настроить сообщения прощания.
+Use `farewell setup` to modify • `farewell reset` to clear ||| `farewell setup` — изменить • `farewell reset` — очистить
+Use `welcome setup` to configure welcome messages. ||| Используйте `welcome setup`, чтобы настроить приветствия.
+Use `welcome setup` to modify • `welcome reset` to clear ||| `welcome setup` — изменить • `welcome reset` — очистить
+Used {0} ||| Использовано {0}
+User does not have this role. ||| У пользователя нет этой роли.
+User Not Banned ||| Пользователь не забанен
+User Not Muted ||| Пользователь не замучен
+User Softbanned ||| Пользователь софтбанен
+User Temporarily Banned ||| Пользователь временно забанен
+User Unbanned ||| Пользователь разбанен
+User Unmuted ||| Мут снят
+Voice Channel Users ||| Пользователи голосового канала
+Voice Channels Export ||| Экспорт голосовых каналов
+Wallet Balance ||| Баланс кошелька
+Warnings Export ||| Экспорт предупреждений
+Welcome Message Preview ||| Предпросмотр приветствия
+Welcome Reset ||| Сброс приветствия
+Welcome Setup - Container ||| Настройка приветствия — контейнер
+Whitelist {0} ||| В белый список {0}
+Wizz Complete ||| Взлом завершён
+Wizz in Progress ||| Взлом идёт
+You can only add up to 25 commands to the ignore list. ||| В список игнорирования можно добавить до 25 команд.
+You can only add up to 30 channels to the ignore list. ||| В список игнорирования можно добавить до 30 каналов.
+You can only add up to 30 users to the bypass list. ||| В список исключений можно добавить до 30 пользователей.
+You can only add up to 30 users to the ignore list. ||| В список игнорирования можно добавить до 30 пользователей.
+You must be in a voice channel to pull users. ||| Чтобы перетаскивать пользователей, нужно быть в голосовом канале.
+You need **Manage Channels** permission. ||| Требуется право **Управлять каналами**.
+You need the **Kick Members** permission. ||| Требуется право **Кикать участников**.
+Your Todo List ||| Ваш список задач
+- **Multiple Category System** ||| - **Система с несколькими категориями**
+- **Single Category System** ||| - **Система с одной категорией**
+"Extracted" Data ||| «Извлечённые» данные
+{0} · 1ms · Type: {1} | {2} ||| {0} · 1ms · Тип: {1} | {2}
+{0} already has access to this ticket. ||| У {0} уже есть доступ к этому тикету.
+{0} Analyzing image... ||| {0} Анализ изображения…
+{0} Autobump Commands ||| {0} Команды автобампа
+{0} Autobump Configuration ||| {0} Настройка автобампа
+{0} Autobump Enabled ||| {0} Автобамп включён
+{0} Autobump Setup ||| {0} Настройка автобампа
+{0} Autopost Added ||| {0} Автопост добавлен
+{0} Autopost Removed ||| {0} Автопост удалён
+{0} Autopost Reset ||| {0} Автопост сброшен
+{0} does not have access to this ticket. ||| У {0} нет доступа к этому тикету.
+{0} Failed to fetch animal fact. Please try again later. ||| {0} Не удалось получить факт о животном. Попробуйте позже.
+{0} Failed to fetch bear image. Please try again later. ||| {0} Не удалось загрузить изображение медведя. Попробуйте позже.
+{0} Failed to fetch bird image. Please try again later. ||| {0} Не удалось загрузить изображение птицы. Попробуйте позже.
+{0} Failed to fetch bunny image. Please try again later. ||| {0} Не удалось загрузить изображение кролика. Попробуйте позже.
+{0} Failed to fetch cat image. Please try again later. ||| {0} Не удалось загрузить изображение кота. Попробуйте позже.
+{0} Failed to fetch dog image. Please try again later. ||| {0} Не удалось загрузить изображение собаки. Попробуйте позже.
+{0} Failed to fetch duck image. Please try again later. ||| {0} Не удалось загрузить изображение утки. Попробуйте позже.
+{0} Failed to fetch fox image. Please try again later. ||| {0} Не удалось загрузить изображение лисы. Попробуйте позже.
+{0} Failed to fetch panda image. Please try again later. ||| {0} Не удалось загрузить изображение панды. Попробуйте позже.
+{0} Failed to fetch pig image. Please try again later. ||| {0} Не удалось загрузить изображение свиньи. Попробуйте позже.

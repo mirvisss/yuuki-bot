@@ -1,0 +1,143 @@
+{0} Failed to fetch possum image. Please try again later. ||| {0} Не удалось загрузить изображение опоссума. Попробуйте позже.
+{0} Failed to fetch red panda image. Please try again later. ||| {0} Не удалось загрузить изображение красной панды. Попробуйте позже.
+{0} Failed to fetch sheep image. Please try again later. ||| {0} Не удалось загрузить изображение овцы. Попробуйте позже.
+{0} Failed to fetch snake image. Please try again later. ||| {0} Не удалось загрузить изображение змеи. Попробуйте позже.
+{0} Failed to fetch squirrel image. Please try again later. ||| {0} Не удалось загрузить изображение белки. Попробуйте позже.
+{0} has been added to the ticket system. ||| {0} добавлен в систему тикетов.
+{0} has been locked. ||| {0} заблокирован.
+{0} has been removed. ||| {0} удалён.
+{0} has been unlocked. ||| {0} разблокирован.
+{0} has been whitelisted for {1}. ||| {0} добавлен в белый список для {1}.
+{0} has been whitelisted for: {1} ||| {0} добавлен в белый список для: {1}
+{0} Invites ||| {0} приглашений
+{0} is already a support role. ||| {0} уже является ролью поддержки.
+{0} is already locked. ||| {0} уже заблокирован.
+{0} is not an additional support role. ||| {0} не является дополнительной ролью поддержки.
+{0} is not in the no-prefix list. ||| {0} нет в списке без префикса.
+{0} is not locked. ||| {0} не заблокирован.
+{0} Loading profile card... ||| {0} Загрузка карточки профиля…
+{0} Loading profile... ||| {0} Загрузка профиля…
+{0} Messages ||| {0} сообщений
+{0} No Farewell Configuration ||| {0} Настройка прощания отсутствует
+{0} No Welcome Configuration ||| {0} Настройка приветствия отсутствует
+{0} Please mention a user to hug! ||| {0} Упомяните пользователя, чтобы обнять!
+{0} Please mention a user to kill! ||| {0} Упомяните пользователя, чтобы «убить»!
+{0} Please mention a user to kiss! ||| {0} Упомяните пользователя, чтобы поцеловать!
+{0} Please mention a user to lick! ||| {0} Упомяните пользователя, чтобы лизнуть!
+{0} Please mention a user to pat! ||| {0} Упомяните пользователя, чтобы погладить!
+{0} Please mention a user to poke! ||| {0} Упомяните пользователя, чтобы ткнуть!
+{0} Please mention a user to slap! ||| {0} Упомяните пользователя, чтобы шлёпнуть!
+{0} Please mention a user to stare at! ||| {0} Упомяните пользователя, чтобы посмотреть!
+{0} Please mention a user to tickle! ||| {0} Упомяните пользователя, чтобы пощекотать!
+{0} Please provide a nickname! ||| {0} Укажите ник!
+{0} Please provide a number to convert! ||| {0} Укажите число для преобразования!
+{0} Please provide bio text! ||| {0} Укажите текст описания!
+{0} Please provide centimeters to convert! ||| {0} Укажите сантиметры для преобразования!
+{0} Please provide decimal value! ||| {0} Укажите десятичное значение!
+{0} Please provide feet to convert! ||| {0} Укажите футы для преобразования!
+{0} Please provide hexadecimal value! ||| {0} Укажите шестнадцатеричное значение!
+{0} Please provide kilograms to convert! ||| {0} Укажите килограммы для преобразования!
+{0} Please provide text to convert! ||| {0} Укажите текст для преобразования!
+{0}'s Profile ||| Профиль {0}
+{3} {4} Staff ||| {3} {4} Состав поддержки
+**Example:** `remind 30m Submit the report` ||| **Пример:** `remind 30m Сдать отчёт`
+**Examples:** `10m`, `2h`, `1d` ||| **Примеры:** `10m`, `2h`, `1d`
+**Important:** Make sure to grant me "Manage Messages" permission for functioning of media channel. ||| **Важно:** дайте мне право «Управлять сообщениями», чтобы медиаканал работал.
+**Security Note:** These hashes are for verification and educational purposes ||| **О безопасности:** эти хеши предназначены для проверки и обучения
+**Step 1:** Select which role to grant ||| **Шаг 1:** выберите роль для выдачи
+**Step 2 of 3** - Configure Punishments ||| **Шаг 2 из 3** — настройка наказаний
+**Step 2:** Set the vanity code (next) ||| **Шаг 2:** укажите vanity-код (далее)
+**Usage:** `afk <reason>` ||| **Использование:** `afk <reason>`
+**Usage:** `hash <algorithm> <text>` ||| **Использование:** `hash <algorithm> <text>`
+**Usage:** `ignore bypass add <@user>` ||| **Использование:** `ignore bypass add <@user>`
+**Usage:** `ignore bypass remove <@user>` ||| **Использование:** `ignore bypass remove <@user>`
+**Usage:** `ignore channel add <#channel>` ||| **Использование:** `ignore channel add <#channel>`
+**Usage:** `ignore channel remove <#channel>` ||| **Использование:** `ignore channel remove <#channel>`
+**Usage:** `ignore command add <command>` ||| **Использование:** `ignore command add <command>`
+**Usage:** `ignore command remove <command>` ||| **Использование:** `ignore command remove <command>`
+**Usage:** `ignore user add <@user>` ||| **Использование:** `ignore user add <@user>`
+**Usage:** `ignore user remove <@user>` ||| **Использование:** `ignore user remove <@user>`
+**Usage:** `nick @user [nickname]` ||| **Использование:** `nick @user [nickname]`
+**Usage:** `prefix <new_prefix>` ||| **Использование:** `prefix <new_prefix>`
+**Usage:** `remind <time> <message>` ||| **Использование:** `remind <time> <message>`
+**Usage:** `ticket add <user>` ||| **Использование:** `ticket add <user>`
+**Usage:** `ticket addrole <@role>` ||| **Использование:** `ticket addrole <@role>`
+**Usage:** `ticket remove <user>` ||| **Использование:** `ticket remove <user>`
+**Usage:** `ticket removerole <@role>` ||| **Использование:** `ticket removerole <@role>`
+**Usage:** `ticket rename <new-name>` ||| **Использование:** `ticket rename <new-name>`
+**Usage:** `ticket transfer <user>` ||| **Использование:** `ticket transfer <user>`
+**Usage:** `voice deafen <user>` ||| **Использование:** `voice deafen <user>`
+**Usage:** `voice kick <user>` ||| **Использование:** `voice kick <user>`
+**Usage:** `voice move <user> <channel>` ||| **Использование:** `voice move <user> <channel>`
+**Usage:** `voice moveall <from> <to>` ||| **Использование:** `voice moveall <from> <to>`
+**Usage:** `voice mute <user>` ||| **Использование:** `voice mute <user>`
+**Usage:** `voice pull <user>` ||| **Использование:** `voice pull <user>`
+**Usage:** `voice pullall <channel>` ||| **Использование:** `voice pullall <channel>`
+**Usage:** `voice undeafen <user>` ||| **Использование:** `voice undeafen <user>`
+**Usage:** `voice unmute <user>` ||| **Использование:** `voice unmute <user>`
+**Warning:** Existing ticket channels will not be deleted, but the system will stop functioning until you run setup again. ||| **Внимание:** существующие каналы тикетов не будут удалены, но система перестанет работать, пока вы не запустите настройку заново.
+`ship @user1 [@user2]` — mention at least one user to ship! ||| `ship @user1 [@user2]` — упомяните хотя бы одного пользователя!
+⏳ Generating image... this may take a moment ||| ⏳ Создаю изображение… это может занять время
+✅ Reaction Roles Created! ||| ✅ Роли по реакциям созданы!
+✅ Reaction roles message removed! ||| ✅ Сообщение с ролями по реакциям удалено!
+❌ **Generation Error** ||| ❌ **Ошибка генерации**
+❌ **Generation Failed** ||| ❌ **Не удалось сгенерировать**
+❌ **Usage Error** ||| ❌ **Ошибка использования**
+❌ An error occurred while processing your request ||| ❌ При обработке запроса произошла ошибка
+❌ API key not configured ||| ❌ Ключ API не настроен
+❌ Blacklist model not initialized ||| ❌ Модель чёрного списка не инициализирована
+❌ Database error: ||| ❌ Ошибка базы данных:
+❌ Fatal: ||| ❌ Критическая ошибка:
+❌ No image was generated. Please try again with a different prompt. ||| ❌ Изображение не создано. Попробуйте другой запрос.
+❌ Prompt is too long (max 500 characters) ||| ❌ Запрос слишком длинный (максимум 500 символов)
+❌ Something went wrong while running this command. ||| ❌ При выполнении команды что-то пошло не так.
+Add Channel to Whitelist ||| Добавить канал в белый список
+Add placeholders directly in the farewell message or container fields. ||| Добавляйте плейсхолдеры прямо в текст прощания или поля контейнера.
+Add placeholders directly in the welcome message or container fields. ||| Добавляйте плейсхолдеры прямо в текст приветствия или поля контейнера.
+Add Role to Whitelist ||| Добавить роль в белый список
+Add Separator ||| Добавить разделитель
+Add User to Whitelist ||| Добавить пользователя в белый список
+AI Channel Disabled ||| ИИ-канал отключён
+AI Channel Enabled ||| ИИ-канал включён
+All Available Hash Algorithms: ||| Все доступные алгоритмы хеширования:
+All error logs cleared. ||| Все логи ошибок очищены.
+All ticket configuration has been removed. You can now run `ticket setup` to configure the system again. ||| Вся настройка тикетов удалена. Теперь можно снова запустить `ticket setup`.
+All tickets will be created under one category ||| Все тикеты будут создаваться в одной категории
+All-time invites are being updated in real time ||| Приглашения обновляются в реальном времени
+All-Time Message Leaderboard ||| Таблица лидеров по сообщениям за всё время
+Already Deafened ||| Уже заглушен
+Already Disabled ||| Уже отключено
+Already Entered ||| Уже участвует
+Already Muted ||| Уже замучен
+Animals ||| Животные
+Antinuke ||| Антикраш
+Antinuke {0} ||| Антикраш {0}
+Antinuke Disabled ||| Антикраш отключён
+Antinuke Enabled ||| Антикраш включён
+Antinuke Not Configured ||| Антикраш не настроен
+Antinuke Reset ||| Антикраш сброшен
+Antinuke Settings ||| Настройки антикраша
+Antinuke Setup Complete! ||| Настройка антикраша завершена!
+Antinuke Triggered ||| Антикраш сработал
+Antinuke Whitelist ({0}) ||| Белый список антикраша ({0})
+Artificial Intelligence ||| Искусственный интеллект
+Automation ||| Автоматизация
+AutoMod ||| Автомод
+AutoMod {0} ||| Автомод {0}
+AutoMod Action ||| Действие автомода
+AutoMod Disabled ||| Автомод отключён
+AutoMod Enabled ||| Автомод включён
+AutoMod Not Configured ||| Автомод не настроен
+AutoMod Reset ||| Автомод сброшен
+AutoMod Settings ||| Настройки автомода
+AutoMod Setup Cancelled ||| Настройка автомода отменена
+AutoMod Setup Complete! ||| Настройка автомода завершена!
+AutoMod Whitelist ({0}) ||| Белый список автомода ({0})
+AutoReact · Add ||| Автореакции · добавить
+AutoReact · Added ||| Автореакции · добавлено
+AutoReact · Error ||| Автореакции · ошибка
+AutoReact · Removed ||| Автореакции · удалено
+AutoReact · Reset ||| Автореакции · сброс
+Blacklisted ||| В чёрном списке
+Blacklisted Guilds ||| Серверы в чёрном списке
+Blacklisted Users ||| Пользователи в чёрном списке
