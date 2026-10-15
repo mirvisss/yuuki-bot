@@ -185,6 +185,26 @@ function stats(locale = null) {
  *  Перевод строки
  * ------------------------------------------------------------------ */
 
+// Обёртки Discord-разметки: заголовок, подтекст, цитата, код, жирный/подчеркнутый.
+// Их снимаем и переводим внутренний текст — иначе «**Ошибка**» осталась бы английской,
+// потому что маскировка скрывает содержимое жирного текста.
+const MARKDOWN_WRAPPERS = [
+    ['**', '**'], ['__', '__'], ['`', '`'], ['*', '*'], ['_', '_'],
+    ['### ', ''], ['## ', ''], ['# ', ''], ['-# ', ''], ['> ', '']
+];
+
+function splitWrapper(text) {
+    for (const [prefix, suffix] of MARKDOWN_WRAPPERS) {
+        if (text.length <= prefix.length + suffix.length) continue;
+        if (!text.startsWith(prefix)) continue;
+        if (suffix && !text.endsWith(suffix)) continue;
+        const inner = text.slice(prefix.length, text.length - suffix.length).trim();
+        if (!inner || !/[A-Za-z\u0400-\u04FF]/.test(inner)) continue;
+        return { prefix, suffix, inner, leading: text.slice(0, prefix.length), trailing: suffix ? text.slice(text.length - suffix.length) : '' };
+    }
+    return null;
+}
+
 function lookup(words, text) {
     if (!text) return undefined;
 
@@ -193,7 +213,10 @@ function lookup(words, text) {
     const direct = words.get(text);
     if (direct !== undefined) return { translation: direct, tokens };
 
-    const byPattern = pattern !== text ? words.get(pattern) : undefined;
+    // Шаблон из одних подстановок («{0}») ничего не переводит — он может только
+    // «съесть» строку целиком (жирный текст, код), поэтому его пропускаем.
+    const placeholderOnly = pattern.replace(/\{\d+\}/g, '').trim() === '';
+    const byPattern = pattern !== text && !placeholderOnly ? words.get(pattern) : undefined;
     if (byPattern !== undefined) return { translation: byPattern, tokens };
 
     return undefined;
@@ -212,6 +235,14 @@ function translateText(text, words = dictionary(), depth = 0) {
     if (whole) return fillTokens(whole.translation, whole.tokens, depth);
 
     if (!text.includes('\n')) {
+        // «**Ошибка**», «### Настройки», «> цитата», «`код`» — переводим содержимое
+        const wrapped = splitWrapper(trimmed);
+        if (wrapped) {
+            const inner = translateText(wrapped.inner, words, depth + 1);
+            if (inner !== wrapped.inner) {
+                return text.replace(trimmed, () => `${wrapped.leading}${inner}${wrapped.trailing}`);
+            }
+        }
         recordMiss(text);
         return text;
     }

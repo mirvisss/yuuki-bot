@@ -1,0 +1,56 @@
+name: Database backup
+
+# Ежедневный дамп базы бота (Aiven PostgreSQL).
+# Дамп шифруется паролем из секрета DUMP_PASSPHRASE и хранится как artifact 90 дней.
+# Репозиторий публичный, поэтому без пароля архив прочитать нельзя.
+#
+# Секреты репозитория (Settings → Secrets and variables → Actions):
+#   DB_URL          — строка подключения, то же значение, что DATABASE_URL в Render
+#   DUMP_PASSPHRASE — пароль для шифрования архива (хранится у вас локально)
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check secrets
+        run: |
+          if [ -z "${{ secrets.DB_URL }}" ]; then echo "нет секрета DB_URL"; exit 1; fi
+          if [ -z "${{ secrets.DUMP_PASSPHRASE }}" ]; then echo "нет секрета DUMP_PASSPHRASE"; exit 1; fi
+
+      - name: Install PostgreSQL client
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq postgresql-client
+
+      - name: Dump and encrypt
+        env:
+          DB_URL: ${{ secrets.DB_URL }}
+          DUMP_PASSPHRASE: ${{ secrets.DUMP_PASSPHRASE }}
+        run: |
+          set -euo pipefail
+          stamp=$(date -u +%Y-%m-%d)
+          pg_dump --no-owner --no-privileges "$DB_URL" > "yuuki-$stamp.sql"
+          size=$(wc -c < "yuuki-$stamp.sql")
+          copies=$(grep -c '^COPY ' "yuuki-$stamp.sql" || true)
+          echo "дамп: $size байт, таблиц с данными (COPY): $copies"
+          if [ "$size" -lt 10000 ]; then echo "дамп подозрительно мал"; exit 1; fi
+          gzip -9 "yuuki-$stamp.sql"
+          openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -pass env:DUMP_PASSPHRASE -in "yuuki-$stamp.sql.gz" -out "yuuki-$stamp.sql.gz.enc"
+          rm -f "yuuki-$stamp.sql.gz"
+          ls -lh "yuuki-$stamp.sql.gz.enc"
+          test -s "yuuki-$stamp.sql.gz.enc"
+
+      - name: Upload encrypted dump
+        uses: actions/upload-artifact@v4
+        with:
+          name: db-backup-${{ github.run_number }}
+          path: '*.sql.gz.enc'
+          retention-days: 90
+          if-no-files-found: error

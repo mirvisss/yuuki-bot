@@ -1,0 +1,119 @@
+# Батч 20 — частые фразы, которые видел пользователь (порядок: по частоте).
+Error ||| Ошибка
+Permission Denied ||| Доступ запрещён
+Missing Permissions ||| Недостаточно прав
+Admin restricted access | {0} ||| Доступ только для администрации | {0}
+Cancel ||| Отмена
+File Sent ||| Файл отправлен
+Not Found ||| Не найдено
+You need **Manage Server** permission. ||| Требуется право **Управлять сервером**.
+Success ||| Готово
+User Not Found ||| Пользователь не найден
+You need **Administrator** permission to use this command. ||| Для этой команды нужно право **Администратор**.
+Invalid Channel ||| Неверный канал
+Invalid Usage ||| Неверное использование
+No description set. ||| Описание не задано.
+Processing... ||| Обработка…
+They have an equal or higher role than you. ||| У него роль такая же или выше вашей.
+No content ||| Нет содержимого
+Role Too High ||| Роль слишком высокая
+Please specify a valid voice channel or join one. ||| Укажите голосовой канал или зайдите в него.
+Cannot Ban User ||| Не удалось забанить
+Could not find that user. ||| Не удалось найти пользователя.
+I need the **Ban Members** permission. ||| Мне нужно право **Банить участников**.
+Limit Reached ||| Достигнут предел
+Not in Voice ||| Не в голосовом канале
+This channel is not a valid ticket channel. ||| Это не канал тикета.
+You need the **Ban Members** permission. ||| Требуется право **Банить участников**.
+Already Configured ||| Уже настроено
+Anti-Caps ||| Анти-капс
+Anti-Invite ||| Анти-инвайты
+Anti-Link ||| Анти-ссылки
+Anti-Spam ||| Анти-спам
+Back ||| Назад
+Error occurred ||| Произошла ошибка
+Invalid Duration ||| Неверная длительность
+Invalid User ||| Неверный пользователь
+No-Prefix ||| Без префикса
+That user is not in a voice channel. ||| Этот пользователь не в голосовом канале.
+Already Ignored ||| Уже игнорируется
+Antinuke Setup ||| Настройка антикраша
+Calculator ||| Калькулятор
+Color ||| Цвет
+Database Error ||| Ошибка базы данных
+Description ||| Описание
+Direct Message ||| Личное сообщение
+I cannot manage this role as it is higher than or equal to my highest role. ||| Я не могу управлять этой ролью: она выше или равна моей высшей роли.
+I need the **Manage Channels** permission. ||| Мне нужно право **Управлять каналами**.
+I need the **Manage Roles** permission. ||| Мне нужно право **Управлять ролями**.
+Image ||| Изображение
+Kick ||| Кик
+Missing User ||| Нет пользователя
+Please mention a user. ||| Упомяните пользователя.
+Simple ||| Простой
+Submit ||| Отправить
+Thumbnail ||| Миниатюра
+Title ||| Заголовок
+User is not in this server. ||| Пользователя нет на этом сервере.
+Variables ||| Переменные
+You need the **Manage Channels** permission. ||| Требуется право **Управлять каналами**.
+You need the **Manage Roles** permission. ||| Требуется право **Управлять ролями**.
+Anti-Ping ||| Анти-пинг
+AutoMod Setup ||| Настройка автомода
+Done ||| Готово
+Guild Invite ||| Приглашение на сервер
+Next ||| Далее
+Role Not Found ||| Роль не найдена
+Ticket Deleted ||| Тикет удалён
+Ticket system is not configured. Use `ticket setup` first. ||| Система тикетов не настроена. Сначала используйте `ticket setup`.
+{0} ({1} chars) ||| {0} ({1} симв.)
+{0} Please provide text to encode! ||| {0} Укажите текст для кодирования!
+**Administrator** - All Permissions ||| **Администратор** — все права
+Add to Whitelist ||| Добавить в белый список
+Anti-Ban ||| Анти-бан
+Anti-Bot ||| Анти-боты
+Anti-Kick ||| Анти-кик
+Anti-Webhook ||| Анти-вебхуки
+Bypass Users ||| Пользователи в исключениях
+Cannot Kick User ||| Не удалось кикнуть
+Cannot Mute User ||| Не удалось замутить
+Cannot Softban User ||| Не удалось сделать софтбан
+Cannot Unmute User ||| Не удалось снять мут
+Channel ||| Канал
+Command Lock ||| Блокировка команд
+Container ||| Контейнер
+Could not find that role. ||| Не удалось найти роль.
+Error Logs ||| Логи ошибок
+Feedback Configuration ||| Настройка отзывов
+Google · {0} ||| Google · {0}
+Guild Leave ||| Уход с сервера
+I cannot ban this user. They may have a higher role than me. ||| Я не могу забанить этого пользователя: возможно, у него роль выше моей.
+I cannot modify permissions on this channel. Ensure my role is above the channel overrides. ||| Я не могу менять права в этом канале. Убедитесь, что моя роль выше переопределений канала.
+I need the **Moderate Members** permission. ||| Мне нужно право **Модерировать участников**.
+Ignored Channels ||| Игнорируемые каналы
+Ignored Commands ||| Игнорируемые команды
+Ignored Users ||| Игнорируемые пользователи
+Invalid URL ||| Неверная ссылка
+Logging Configuration ||| Настройка логов
+Missing ID ||| Нет ID
+Please provide a role mention, ID, or name. ||| Укажите упоминание роли, её ID или название.
+Provide a valid duration (e.g., 1h, 30m, 1d, 7d). ||| Укажите длительность (например, 1h, 30m, 1d, 7d).
+Reaction Roles ||| Роли по реакциям
+Remove from Whitelist ||| Убрать из белого списка
+Role Already Assigned ||| Роль уже выдана
+Session expired. Please run `/reactionroles setup` again. ||| Сессия истекла. Запустите `/reactionroles setup` заново.
+Ticket Claimed ||| Тикет взят
+Ticket Closed ||| Тикет закрыт
+Usage Error ||| Ошибка использования
+User already has this role. ||| У пользователя уже есть эта роль.
+You cannot manage a role higher than or equal to your highest role. ||| Нельзя управлять ролью выше или равной вашей высшей роли.
+You need the **Moderate Members** permission. ||| Требуется право **Модерировать участников**.
+**Step 1 of 3** - Select Modules ||| **Шаг 1 из 3** — выберите модули
+**Step 2 of 3** - Threshold & Punishment ||| **Шаг 2 из 3** — порог и наказание
+Already Enabled ||| Уже включено
+Change or remove a member's server nickname ||| Изменить или снять ник участника на сервере
+Command Unlock ||| Разблокировка команд
+Continue ||| Продолжить
+Default ||| По умолчанию
+Delete messages from the last X days (0-7) ||| Удалить сообщения за последние X дней (0–7)
+Empty Channel ||| Пустой канал
