@@ -1,0 +1,212 @@
+# Батч 2 — ролевые команды, профиль сервера, игнор-листы и белый список, крипта, типовые ошибки.
+# {0}, {1} — подстановки (эмодзи, пользователь, число), порядок должен совпадать с оригиналом.
+
+# --- Ролевые действия ---
+{0} eliminates {1} ||| {0} устраняет {1}
+{0} facepalms! ||| {0} делает фейспалм!
+{0} gives {1} a deadly stare ||| {0} уничтожающе смотрит на {1}
+{0} gives {1} a warm hug ||| {0} крепко обнимает {1}
+{0} gives a thumbs up! ||| {0} показывает большой палец вверх!
+{0} is blushing! ||| {0} смущается!
+{0} is clapping! ||| {0} аплодирует!
+{0} is crying ||| {0} плачет
+{0} is dancing! ||| {0} танцует!
+{0} is eating! ||| {0} ест!
+{0} is going to sleep! ||| {0} ложится спать!
+{0} is laughing out loud! ||| {0} громко смеётся!
+{0} is running away! ||| {0} убегает!
+{0} is smiling! ||| {0} улыбается!
+{0} kisses {1} ||| {0} целует {1}
+{0} licks {1} ||| {0} облизывает {1}
+{0} pats {1} on the head ||| {0} гладит {1} по голове
+{0} pokes {1} ||| {0} тыкает {1}
+{0} salutes! ||| {0} отдаёт честь!
+{0} shrugs! ||| {0} пожимает плечами!
+{0} slaps {1} ||| {0} даёт пощёчину {1}
+{0} tickles {1} ||| {0} щекочет {1}
+{0} winks! ||| {0} подмигивает!
+Kiss Back ||| Поцеловать в ответ
+Hug Back ||| Обнять в ответ
+Lick Back ||| Лизнуть в ответ
+Poke Back ||| Ткнуть в ответ
+Slap Back ||| Дать сдачи
+Stare Back ||| Посмотреть в ответ
+Give someone a warm hug ||| Крепко обнять кого-нибудь
+Go to sleep ||| Лечь спать
+Dance! ||| Потанцевать!
+The user to kill ||| Пользователь, которого «убивают»
+The user to lick ||| Пользователь, которого облизывают
+Ship two users together! ||| Шуточно «свести» двух пользователей
+
+# --- Заголовки ролевых команд ---
+# Blushing ||| # Смущение
+# Clapping ||| # Аплодисменты
+# Crying ||| # Плач
+# Dance Time ||| # Танцы
+# Death Stare ||| # Уничтожающий взгляд
+# Eating ||| # Еда
+# Facepalm ||| # Фейспалм
+# Hug Time ||| # Обнимашки
+# Kill Action ||| # «Убийство»
+# Kiss ||| # Поцелуй
+# Laughing ||| # Смех
+# Lick ||| # Облизывание
+# Poke ||| # Тычок
+# Running Away ||| # Побег
+# Salute ||| # Честь
+# Shrug ||| # Пожатие плечами
+# Slap ||| # Пощёчина
+# Sleeping ||| # Сон
+# Smiling ||| # Улыбка
+# Thumbs Up ||| # Палец вверх
+# Tickle Time ||| # Щекотка
+# Wink ||| # Подмигивание
+
+# --- Профиль бота на сервере и аватар/баннер пользователя ---
+{0}'s Avatar ||| Аватар {0}
+{0} Server Banner ||| Баннер сервера {0}
+Server Icon ||| Иконка сервера
+Get the server icon ||| Показать иконку сервера
+Set the bot's avatar for this server ||| Установить аватар бота на этом сервере
+Set the bot's banner for this server ||| Установить баннер бота на этом сервере
+Set the bot's nickname for this server ||| Установить ник бота на этом сервере
+Reset the bot's server profile to default ||| Сбросить профиль бота на сервере по умолчанию
+Reset the bot's server profile ||| Сбросить профиль бота на сервере
+Manage bot's server profile ||| Управление профилем бота на сервере
+{0} Successfully reset server profile to default! ||| {0} Профиль бота на сервере сброшен по умолчанию!
+{0} Successfully updated server avatar! ||| {0} Аватар бота на сервере обновлён!
+{0} Successfully updated server banner! ||| {0} Баннер бота на сервере обновлён!
+{0} Successfully updated server nickname to {1}! ||| {0} Ник бота на сервере изменён на {1}!
+{0} An error occurred while resetting the server profile. Please try again later. ||| {0} Не удалось сбросить профиль бота на сервере. Попробуйте позже.
+{0} An error occurred while updating the server avatar. Please try again later. ||| {0} Не удалось обновить аватар бота на сервере. Попробуйте позже.
+{0} An error occurred while updating the server banner. Please try again later. ||| {0} Не удалось обновить баннер бота на сервере. Попробуйте позже.
+{0} An error occurred while updating the server bio. Please try again later. ||| {0} Не удалось обновить описание бота на сервере. Попробуйте позже.
+{0} An error occurred while updating the server nickname. Please try again later. ||| {0} Не удалось обновить ник бота на сервере. Попробуйте позже.
+{0} An error occurred while updating the server profile. Please try again later. ||| {0} Не удалось обновить профиль бота на сервере. Попробуйте позже.
+{0} Please attach an image to set as the server avatar! ||| {0} Прикрепите изображение для аватара бота!
+{0} Please attach an image to set as the server banner! ||| {0} Прикрепите изображение для баннера бота!
+{0} Nickname must be {1} characters or less! (Current: {2}) ||| {0} Ник должен быть не длиннее {1} символов! (Сейчас: {2})
+Nickname for {0} has been {1}. ||| Ник для {0}: {1}
+Nickname Updated ||| Ник обновлён
+New Avatar ||| Новый аватар
+New nickname (leave empty to remove) ||| Новый ник (оставьте пустым, чтобы убрать)
+The avatar image ||| Изображение для аватара
+The banner image ||| Изображение для баннера
+The member to nickname ||| Участник, которому меняем ник
+The nickname to set ||| Новый ник
+The user to get avatar for ||| Пользователь, чей аватар показать
+The user to get banner for ||| Пользователь, чей баннер показать
+The user to get the avatar from ||| Пользователь, чей аватар показать
+The user to get the banner from ||| Пользователь, чей баннер показать
+User to get avatar from ||| Пользователь, чей аватар показать
+View a user's avatar ||| Посмотреть аватар пользователя
+View a user's banner ||| Посмотреть баннер пользователя
+View the bot's server avatar ||| Посмотреть аватар бота на сервере
+View the bot's server banner ||| Посмотреть баннер бота на сервере
+View the bot's server bio ||| Посмотреть описание бота на сервере
+Image URL (leave empty to use your avatar) ||| Ссылка на изображение (пусто — использовать ваш аватар)
+
+# --- Списки игнорирования и белый список ---
+{0} is already in the bypass users list. ||| {0} уже в списке обхода.
+{0} is not in the bypass users list. ||| {0} отсутствует в списке обхода.
+{0} is already in the ignore channels list. ||| {0} уже в списке игнорируемых каналов.
+{0} is not in the ignore channels list. ||| {0} отсутствует в списке игнорируемых каналов.
+{0} is already in the ignore commands list. ||| {0} уже в списке игнорируемых команд.
+{0} is not in the ignore commands list. ||| {0} отсутствует в списке игнорируемых команд.
+{0} is already in the ignore users list. ||| {0} уже в списке игнорируемых пользователей.
+{0} is not in the ignore users list. ||| {0} отсутствует в списке игнорируемых пользователей.
+Successfully added {0} to the bypass users list. ||| {0} добавлен в список обхода.
+Successfully removed {0} from the bypass users list. ||| {0} убран из списка обхода.
+Successfully added {0} to the ignore channels list. ||| Канал {0} добавлен в список игнорирования.
+Successfully removed {0} from the ignore channels list. ||| Канал {0} убран из списка игнорирования.
+Successfully added {0} to the ignore commands list. ||| Команда {0} добавлена в список игнорирования.
+Successfully removed {0} from the ignore commands list. ||| Команда {0} убрана из списка игнорирования.
+Successfully added {0} to the ignore users list. ||| {0} добавлен в список игнорирования.
+Successfully removed {0} from the ignore users list. ||| {0} убран из списка игнорирования.
+Failed to add channel to ignore list. Please try again. ||| Не удалось добавить канал в список игнорирования. Попробуйте ещё раз.
+Failed to add command to ignore list. Please try again. ||| Не удалось добавить команду в список игнорирования. Попробуйте ещё раз.
+Failed to add user to ignore list. Please try again. ||| Не удалось добавить пользователя в список игнорирования. Попробуйте ещё раз.
+Failed to remove channel from ignore list. Please try again. ||| Не удалось убрать канал из списка игнорирования. Попробуйте ещё раз.
+Failed to remove command from ignore list. Please try again. ||| Не удалось убрать команду из списка игнорирования. Попробуйте ещё раз.
+Failed to remove user from ignore list. Please try again. ||| Не удалось убрать пользователя из списка игнорирования. Попробуйте ещё раз.
+You can only add up to {0} channels to the ignore list. ||| В список игнорирования можно добавить не больше {0} каналов.
+You can only add up to {0} commands to the ignore list. ||| В список игнорирования можно добавить не больше {0} команд.
+You can only add up to {0} users to the bypass list. ||| В список обхода можно добавить не больше {0} пользователей.
+You can only add up to {0} users to the ignore list. ||| В список игнорирования можно добавить не больше {0} пользователей.
+No channels are currently ignored in this server. ||| На этом сервере пока нет игнорируемых каналов.
+No commands are currently ignored in this server. ||| На этом сервере пока нет игнорируемых команд.
+No users are currently ignored in this server. ||| На этом сервере пока нет игнорируемых пользователей.
+No users are currently bypassed in this server. ||| На этом сервере пока нет пользователей в списке обхода.
+Display all bypass users ||| Показать всех пользователей в списке обхода
+Display all ignored channels ||| Показать все игнорируемые каналы
+Display all ignored commands ||| Показать все игнорируемые команды
+Display all ignored users ||| Показать всех игнорируемых пользователей
+Manage ignored commands, channels, users, and bypass users ||| Списки игнорирования: команды, каналы, пользователи и обход
+Manage whitelisted users ||| Управление белым списком пользователей
+Manage whitelisted users, roles, and channels ||| Управление белым списком: пользователи, роли, каналы
+{0} has been removed from the whitelist. ||| {0} убран из белого списка.
+<@{0}> has been removed from the whitelist. ||| <@{0}> убран из белого списка.
+{0} is not on the whitelist. ||| {0} отсутствует в белом списке.
+User is not on the whitelist. ||| Пользователь отсутствует в белом списке.
+No entries in the whitelist. ||| В белом списке нет записей.
+The whitelist is empty. ||| Белый список пуст.
+No users are whitelisted. ||| В белом списке нет пользователей.
+### Antinuke Whitelist ||| ### Белый список анти-нюка
+### Antinuke Whitelist - Detailed ({0}) ||| ### Белый список анти-нюка — подробно ({0})
+### AutoMod Whitelist ||| ### Белый список автомода
+### AutoMod Whitelist - Detailed ({0}) ||| ### Белый список автомода — подробно ({0})
+### Whitelist {0} ||| ### Белый список {0}
+Whitelist for {0} ||| Белый список для {0}
+Whitelist All Events ||| Все события
+Select a user to add to the whitelist: ||| Выберите пользователя для добавления в белый список:
+Select a user to remove from the whitelist: ||| Выберите пользователя для удаления из белого списка:
+Select user to whitelist ||| Выберите пользователя
+Select what type to whitelist: ||| Выберите тип для белого списка:
+Select events to whitelist ||| Выберите события
+Select which events to whitelist this user for: ||| Выберите события, к которым этот пользователь будет допущен:
+Remove {0} from whitelist ||| Убрать {0} из белого списка
+
+# --- Криптовалюты ---
+Cryptocurrency commands ||| Команды для криптовалют
+Crypto Commands ||| Команды криптовалют
+Cryptocurrency (bitcoin, ethereum, etc) ||| Криптовалюты (биткоин, эфириум и другие)
+# Crypto Conversion ||| # Конвертация криптовалют
+# Crypto News ||| # Новости криптовалют
+# {0} Price ||| # Цена {0}
+# {0} Transactions ||| # Транзакции {0}
+# No Transactions ||| # Нет транзакций
+# Wallet Balance ||| # Баланс кошелька
+Wallet address ||| Адрес кошелька
+{0} BTC, ETH, LTC, DOGE, BCH, XRP ||| {0} BTC, ETH, LTC, DOGE, BCH, XRP
+Supported: BTC, ETH, LTC, DOGE, BCH ||| Поддерживаются: BTC, ETH, LTC, DOGE, BCH
+Check crypto wallet balance ||| Проверить баланс крипто-кошелька
+Check a wallet balance for a given coin and address ||| Проверить баланс кошелька для монеты и адреса
+Convert between cryptocurrencies ||| Конвертировать между криптовалютами
+Convert an amount between two cryptocurrencies ||| Конвертировать сумму из одной криптовалюты в другую
+Get cryptocurrency price ||| Узнать цену криптовалюты
+Failed to fetch crypto news. ||| Не удалось получить новости криптовалют.
+# {0} - Service Reviews ||| # {0} — отзывы о сервисе
+
+# --- Типовые ошибки и статусы ---
+{0} Failed to encode text! ||| {0} Не удалось закодировать текст!
+{0} Failed to encode to ASCII85! ||| {0} Не удалось закодировать в ASCII85!
+{0} Failed to encode to Base32! ||| {0} Не удалось закодировать в Base32!
+{0} Failed to convert binary to string! ||| {0} Не удалось преобразовать двоичный код в текст!
+{0} Decimal value cannot be negative! ||| {0} Десятичное значение не может быть отрицательным!
+{0} Number cannot be negative! ||| {0} Число не может быть отрицательным!
+{0} Values cannot be negative! ||| {0} Значения не могут быть отрицательными!
+{0} Kilograms cannot be negative! ||| {0} Килограммы не могут быть отрицательными!
+{0} Centimeters cannot be negative! ||| {0} Сантиметры не могут быть отрицательными!
+{0} Invalid hexadecimal value! Use only {1}-{2} and A-F. ||| {0} Некорректное шестнадцатеричное значение! Используйте только {1}-{2} и A-F.
+{0} Invalid interval! Minimum is {1} seconds (10s). ||| {0} Слишком маленький интервал! Минимум {1} секунд (10s).
+{0} Menu expired ||| {0} Меню истекло
+{0} No anime pfps found. Try again later. ||| {0} Аниме-аватарки не найдены. Попробуйте позже.
+{0} No female pfps found. Try again later. ||| {0} Женские аватарки не найдены. Попробуйте позже.
+{0} No male pfps found. Try again later. ||| {0} Мужские аватарки не найдены. Попробуйте позже.
+{0} No autobump configuration found! Use {1} first. ||| {0} Настройка автобампа не найдена! Сначала используйте {1}.
+{0} You're doing it too fast. {1}\n-# Try again later in {2} ||| {0} Слишком быстро. {1}\n-# Попробуйте снова через {2}
+{0} You won {1} in {2} {3} ||| {0} Вы выиграли {1} в {2} {3}
+{0} size: {1} ||| {0} размер: {1}
+*No current activities* ||| *Активности нет*
+{0}\n\nNo definition found for: {1}\n\nTry searching for a different word or check your spelling. ||| {0}\n\nОпределение не найдено: {1}\n\nПопробуйте другое слово или проверьте написание.
+Click the button below to submit your feedback. ||| Нажмите кнопку ниже, чтобы отправить отзыв.

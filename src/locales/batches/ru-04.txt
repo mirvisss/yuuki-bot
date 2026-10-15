@@ -1,0 +1,142 @@
+# Батч 4 — описания команд (видны в меню Discord и в справке) и частые ответы.
+
+Action to perform ||| Что выполнить
+Activity & Status ||| Активность и статус
+Add a new ticket category ||| Добавить категорию тикетов
+Add a user to the current ticket ||| Добавить пользователя в текущий тикет
+Add an additional support role ||| Добавить ещё одну роль поддержки
+AI commands ||| Команды AI
+All roles have at least one member. ||| У всех ролей есть хотя бы один участник.
+Analyze an image using AI vision ||| Разобрать изображение с помощью AI
+Anime Profile Picture ||| Аниме-аватарка
+Anti-Channel Create ||| Анти-создание каналов
+Anti-Channel Delete ||| Анти-удаление каналов
+Anti-Role Create ||| Анти-создание ролей
+Anti-Role Delete ||| Анти-удаление ролей
+Anti-Role Update ||| Анти-изменение ролей
+Automatically post images to channels every minute ||| Автопубликация изображений в каналы каждую минуту
+Basic server information and statistics ||| Основная информация и статистика сервера
+Block @everyone/@here ||| Блокировать @everyone/@here
+Block Discord invites ||| Блокировать приглашения Discord
+Block excessive caps ||| Блокировать чрезмерный КАПС
+Block external links ||| Блокировать внешние ссылки
+Chat with AI ||| Чат с AI
+Check the bot's latency ||| Проверить задержку бота
+Check the bot's response time ||| Проверить время отклика бота
+Check when a specific user joined the server ||| Узнать, когда участник зашёл на сервер
+Checking for Rick Roll content... ||| Проверяем на Rick Roll...
+Checks total users of Yuuki ||| Проверить общее число пользователей Юки
+Choose information to view ||| Выберите, что показать
+Commands are currently locked by the owner. ||| Команды сейчас заблокированы владельцем.
+Complete Setup ||| Завершить настройку
+Configure automatic message moderation ||| Настроить автоматическую модерацию сообщений
+Configure Punishments ||| Настроить наказания
+Container Description ||| Описание контейнера
+Container Title ||| Заголовок контейнера
+Content (markdown supported) ||| Содержимое (поддерживается markdown)
+Convert pounds to kilograms ||| Перевести фунты в килограммы
+Convert text to speech using AI ||| Озвучить текст с помощью AI
+Converts text to emojis. ||| Преобразует текст в эмодзи.
+Could not fetch join date for this member. ||| Не удалось получить дату входа этого участника.
+Could not fetch join position for this member. ||| Не удалось определить номер входа участника.
+Could not find that emoji in this server. ||| Такое эмодзи не найдено на этом сервере.
+Could not find the specified user. ||| Указанный пользователь не найден.
+Could not retrieve a dare from the API. Please try again later. ||| Не удалось получить задание. Попробуйте позже.
+Count the number of users who have a specific role ||| Посчитать участников с определённой ролью
+Count the total number of roles on the server ||| Посчитать общее количество ролей на сервере
+Delete a ticket channel ||| Удалить канал тикета
+Descriptions (one per line, optional) ||| Описания (по одному в строке, необязательно)
+Destination channel ||| Канал назначения
+Detects if provided url is a rick-roll ||| Проверяет, является ли ссылка Rick Roll
+Disable the antinuke system ||| Отключить защиту сервера от краша
+Disable the automod system ||| Отключить автомод
+Display a list of all channels in the server ||| Показать список всех каналов сервера
+Display invite statistics for today and all time ||| Статистика приглашений за день и за всё время
+Display message statistics for today and all time ||| Статистика сообщений за день и за всё время
+Display the topic/description of a channel ||| Показать тему или описание канала
+Dot Matrix Image ||| Точечная матрица
+Edit Modules ||| Изменить модули
+Edit Settings ||| Изменить настройки
+Enable the antinuke system ||| Включить защиту сервера от краша
+Enable the automod system ||| Включить автомод
+Failed to complete setup. Please try again. ||| Не удалось завершить настройку. Попробуйте ещё раз.
+Failed to fetch a meme. Please try again later. ||| Не удалось получить мем. Попробуйте позже.
+Failed to fetch data. ||| Не удалось получить данные.
+Failed to fetch news. Please try again later. ||| Не удалось получить новости. Попробуйте позже.
+Failed to generate fake message card. Please try again. ||| Не удалось создать карточку сообщения. Попробуйте ещё раз.
+Failed to generate ship card. Please try again. ||| Не удалось создать карточку пары. Попробуйте ещё раз.
+Failed to save configuration. Please try again. ||| Не удалось сохранить настройки. Попробуйте ещё раз.
+Farewell Message ||| Сообщение прощания
+Feedback configuration has been reset for this guild. ||| Настройки отзывов сброшены для этого сервера.
+Feedback system commands ||| Команды системы отзывов
+Female Profile Picture ||| Женская аватарка
+Fight Back ||| Дать сдачи
+General Information ||| Общая информация
+Generate a dot matrix of an image ||| Создать точечную матрицу изображения
+Generate a fake token for a user ||| Сгенерировать шуточный токен для пользователя
+Generating fake message card... ||| Создаём карточку сообщения...
+Get a random pickup line ||| Случайная подкатная фраза
+Get a random truth question ||| Случайный вопрос «правда»
+Get detailed information about a channel ||| Подробная информация о канале
+Get detailed information about a role ||| Подробная информация о роли
+Get information about an emoji ||| Информация об эмодзи
+Get latest news from multiple sources ||| Последние новости из разных источников
+Get Support & Bot invite link ||| Ссылка на поддержку и приглашение бота
+Get the support server invite link ||| Ссылка на сервер поддержки
+Give a random dare ||| Случайное задание
+Give a random pickup line ||| Случайная подкатная фраза
+Give a random truth question ||| Случайный вопрос «правда»
+Giveaway Link ||| Ссылка на розыгрыш
+Hash text with various algorithms ||| Хешировать текст разными алгоритмами
+Hex Color Code ||| HEX-код цвета
+Image URL ||| Ссылка на изображение
+Image URL (optional) ||| Ссылка на изображение (необязательно)
+Join to Create voice channel management ||| Управление каналами «Войти и создать»
+Large (no divider) ||| Большой (без разделителя)
+Large + Divider ||| Большой + разделитель
+Limit mentions ||| Ограничить упоминания
+List all administrators in the server ||| Список всех администраторов сервера
+List all custom emojis in the server ||| Список всех эмодзи сервера
+List all server boosters ||| Список бустеров сервера
+List all users in your voice channel ||| Список участников вашего голосового канала
+List members by account creation date ||| Список участников по дате создания аккаунта
+List members with Early Supporter badge ||| Список участников со значком Early Supporter
+List various server information ||| Различная информация о сервере
+Lock a voice channel ||| Заблокировать голосовой канал
+Male Profile Picture ||| Мужская аватарка
+Manage automatic bump messages ||| Управление автобампом
+Manage giveaways ||| Управление розыгрышами
+Manage server farewell message settings ||| Настройки сообщения прощания
+Manage server logging settings ||| Настройки логов сервера
+Manage server welcome message settings ||| Настройки приветствия
+Manage your profile ||| Управление своим профилем
+Manage your todo list ||| Управление списком дел
+No invite links allowed. ||| Приглашения запрещены.
+No members found in this voice channel. ||| В этом голосовом канале нет участников.
+No permissions granted to this role. ||| У этой роли нет выданных прав.
+No recently deleted messages found in this channel. ||| В этом канале нет недавно удалённых сообщений.
+No recently edited messages found in this channel. ||| В этом канале нет недавно изменённых сообщений.
+No special permissions granted. ||| Особые права не выданы.
+Only the server owner can edit antinuke settings. ||| Изменять настройки защиты может только владелец сервера.
+Pat Back ||| Погладить в ответ
+Prevent dangerous permission grants ||| Предотвращать выдачу опасных прав
+Prevent mass channel creation ||| Предотвращать массовое создание каналов
+Prevent mass channel deletion ||| Предотвращать массовое удаление каналов
+Prevent mass role creation ||| Предотвращать массовое создание ролей
+Prevent mass role deletion ||| Предотвращать массовое удаление ролей
+Protect your server from nuking attacks ||| Защита сервера от краша
+Random animal fact ||| Случайный факт о животных
+Random picture of a bear ||| Случайное фото медведя
+Random picture of a bird ||| Случайное фото птицы
+Random picture of a bunny ||| Случайное фото зайца
+Random picture of a cat ||| Случайное фото кота
+Random picture of a dog ||| Случайное фото собаки
+Random picture of a duck ||| Случайное фото утки
+Random picture of a fox ||| Случайное фото лисы
+Random picture of a panda ||| Случайное фото панды
+Random picture of a pig ||| Случайное фото свиньи
+Random picture of a possum ||| Случайное фото опоссума
+Random picture of a red panda ||| Случайное фото красной панды
+Random picture of a sheep ||| Случайное фото овцы
+Random picture of a snake ||| Случайное фото змеи
+Random picture of a squirrel ||| Случайное фото белки

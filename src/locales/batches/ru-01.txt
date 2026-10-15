@@ -1,0 +1,208 @@
+# Батч 1 — самые частые фразы (встречаются 3+ раза во всех категориях команд).
+# Формат строки: сначала английский текст, затем разделитель из трёх вертикальных черт, затем перевод.
+# {0}, {1} — подстановки (имя, число, канал...), порядок должен совпадать с оригиналом.
+
+You need Administrator permission to use this command. ||| Для использования этой команды нужны права администратора.
+You need Administrator permission to use this command! ||| Для использования этой команды нужны права администратора!
+-# Admin restricted access | {0} ||| -# Доступ только для администрации | {0}
+You need {0} permission. ||| Нужно право {0}.
+You need {0} permission to use this command. ||| Для использования этой команды нужно право {0}.
+{0} You need {1} permission! ||| {0} Нужно право {1}!
+{0} You need the {1} permission to use this command! ||| {0} Для использования этой команды нужно право {1}!
+You need Manage Channels or Administrator permission to use this command. ||| Для использования этой команды нужно право «Управлять каналами» или права администратора.
+Only the command user can use this menu! ||| Меню доступно только автору команды!
+Only the command user can use this! ||| Это доступно только автору команды!
+Only the server owner can manage the whitelist. ||| Управлять белым списком может только владелец сервера.
+Only the server owner can configure antinuke. ||| Настраивать анти-нюк может только владелец сервера.
+{0} actions ||| Действий: {0}
+{0} Text is too long! Maximum {1} characters. ||| {0} Текст слишком длинный! Максимум {1} символов.
+{0} Invalid number! ||| {0} Некорректное число!
+{0} Invalid binary value! Use only {1} and {2}. ||| {0} Некорректное двоичное значение! Используйте только {1} и {2}.
+{0} Please provide a valid image file! ||| {0} Прикрепите корректный файл изображения!
+Please try again later or contact support. ||| Попробуйте позже или обратитесь в поддержку.
+Please select a valid channel. ||| Выберите корректный канал.
+Subcommand '{0}' not found. ||| Подкоманда «{0}» не найдена.
+Session expired. Please run {0} again. ||| Сессия истекла. Запустите {0} заново.
+Setup session expired. Please run {0} again. ||| Сессия настройки истекла. Запустите {0} заново.
+Please mention a user.\n\n{0} {1} ||| Упомяните пользователя.\n\n{0} {1}
+-# Use {0} to modify • {1} to clear ||| -# {0} — изменить • {1} — очистить
+> Use {0} to modify or {1} to start over. ||| > {0} — изменить, {1} — начать заново.
+Could not fetch member join data. ||| Не удалось получить данные о входе участника.
+Failed to add user to bypass list. Please try again. ||| Не удалось добавить пользователя в список обхода. Попробуйте ещё раз.
+Failed to remove user from bypass list. Please try again. ||| Не удалось убрать пользователя из списка обхода. Попробуйте ещё раз.
+Please provide a valid image URL or mention a user!\nUsage: {0} or {1} ||| Укажите корректную ссылку на изображение или упомяните пользователя!\nИспользование: {0} или {1}
+
+# Заголовки и статусы
+# Error ||| # Ошибка
+### Error ||| ### Ошибка
+### Permission Denied ||| ### Недостаточно прав
+### No User Mentioned ||| ### Пользователь не упомянут
+### Missing ID ||| ### Отсутствует ID
+### Already Configured ||| ### Уже настроено
+### Already Enabled ||| ### Уже включено
+# Not Found ||| # Не найдено
+# Usage Error ||| # Ошибка использования
+# Database Error ||| # Ошибка базы данных
+# Calculator ||| # Калькулятор
+# Top {0} ||| # Топ {0}
+# Feedback Configuration ||| # Настройка отзывов
+### Add to Whitelist ||| ### Добавить в белый список
+### Remove from Whitelist ||| ### Убрать из белого списка
+### Reaction Roles Setup - Step {0} ||| ### Настройка ролей по реакциям — шаг {0}
+### Set Accent Color ||| ### Акцентный цвет
+### Logging Configuration ||| ### Настройка логов
+### Welcome Configuration ||| ### Настройка приветствия
+### Farewell Configuration ||| ### Настройка прощания
+### GitHub Search ||| ### Поиск по GitHub
+### Google Search ||| ### Поиск в Google
+### YouTube Search ||| ### Поиск на YouTube
+# Antinuke Setup\n{0} - Threshold & Punishment ||| # Настройка анти-нюка\n{0} — порог и наказание
+# Feedback System Setup\n{0} ||| # Настройка системы отзывов\n{0}
+# Join to Create Setup\n{0} ||| # Настройка «войти и создать»\n{0}
+Page {0} of {1} ||| Страница {0} из {1}
+Usage: {0} ||| Использование: {0}
+{0}'s Banner ||| Баннер {0}
+-# {0} doesn't have a banner set. ||| -# У {0} не установлен баннер.
+-# Failed to fetch user banner. ||| -# Не удалось получить баннер пользователя.
+-# This is a preview of the farewell message using your profile: ||| -# Предпросмотр сообщения прощания на вашем профиле:
+-# This is a preview of the welcome message using your profile: ||| -# Предпросмотр приветственного сообщения на вашем профиле:
+-# Used <t:{0}:F> ||| -# Использовано <t:{0}:F>
+{0}\n\nAI service is not configured. ||| {0}\n\nAI-сервис не настроен.
+{0} [View Icon]({1}) ||| {0} [Открыть иконку]({1})
+
+# Интерфейс настройки (меню, кнопки, поля)
+Select a field to customize ||| Выберите поле для настройки
+Set the accent color (hex code) ||| Задать акцентный цвет (HEX-код)
+Set the container description ||| Задать описание контейнера
+Set the container title ||| Задать заголовок контейнера
+Set the main image URL ||| Задать ссылку на основное изображение
+Set the thumbnail image URL ||| Задать ссылку на миниатюру
+Select modules to enable ||| Выберите модули для включения
+Select which protection modules to enable: ||| Выберите, какие модули защиты включить:
+Configure how many actions trigger antinuke and what punishment to apply: ||| Настройте, сколько действий запускает анти-нюк и какое наказание применять:
+Select punishment ||| Выберите наказание
+Select threshold ||| Выберите порог
+Choose an option: ||| Выберите вариант:
+Choose color option ||| Выберите вариант цвета
+Custom Color ||| Свой цвет
+Enter a custom hex color code ||| Введите свой HEX-код цвета
+Remove accent color ||| Убрать акцентный цвет
+Finish Setup ||| Завершить настройку
+Select log channel ||| Выберите канал логов
+Select a category to create a ticket... ||| Выберите категорию для создания тикета...
+Duration (e.g., 1h, 30m, 1d) ||| Длительность (например, 1h, 30m, 1d)
+The text to encode ||| Текст для кодирования
+Voice channel ||| Голосовой канал
+This button is not for you! ||| Эта кнопка не для вас!
+Use the buttons below to control your voice channel. ||| Управляйте своим голосовым каналом кнопками ниже.
+
+# Модерация
+Ban users from the server ||| Блокировать пользователей на сервере
+Ban the violator from the server ||| Забанить нарушителя на сервере
+Kick users from the server ||| Кикать пользователей с сервера
+Kick the violator from the server ||| Кикнуть нарушителя с сервера
+Remove all roles from the violator ||| Снять все роли с нарушителя
+Strip All Roles ||| Снять все роли
+Temporarily ban users ||| Временные баны
+Unban a previously banned user ||| Разбанить ранее забаненного пользователя
+Mute users for a duration ||| Заглушать пользователей на время
+Unmute muted users ||| Снимать заглушку
+Temporarily add roles to users ||| Выдавать роли на время
+Softban users from the server (ban then unban to delete messages) ||| Софтбан: бан и разбан для удаления сообщений
+Delete messages from the last X days ({0}-{1}) ||| Удалить сообщения за последние X дней ({0}–{1})
+Prevent messages in a channel ||| Запретить сообщения в канале
+Unlock a channel ||| Разблокировать канал
+Set the slowmode for a channel ||| Задать медленный режим канала
+
+# Управление ролями и участниками
+Give a role to a user ||| Выдать роль пользователю
+Remove a role from a user ||| Снять роль с пользователя
+Change or remove a member's server nickname ||| Изменить или убрать ник участника
+Export all moderation warnings ||| Экспортировать все предупреждения
+Export all banned users ||| Экспортировать всех забаненных
+{0} - All Permissions ||| {0} — все права
+
+# Игнор-лист и белый список
+Add a channel to the ignore list ||| Добавить канал в список игнорирования
+Remove a channel from the ignore list ||| Убрать канал из списка игнорирования
+Add a command to the ignore list ||| Добавить команду в список игнорирования
+Remove a command from the ignore list ||| Убрать команду из списка игнорирования
+Add a user to the ignore list ||| Добавить пользователя в список игнорирования
+Remove a user from the ignore list ||| Убрать пользователя из списка игнорирования
+Add a user to the bypass list ||| Добавить пользователя в список обхода
+Remove a user from the bypass list ||| Убрать пользователя из списка обхода
+Add User ||| Добавить пользователя
+Remove User ||| Убрать пользователя
+
+# Автомод / анти-нюк модули
+Anti-Bad Words ||| Анти-мат
+Anti-Mass Mention ||| Анти-масс-упоминания
+Filter banned words ||| Фильтровать запрещённые слова
+View and edit current antinuke settings ||| Просмотр и настройка анти-нюка
+View and edit current automod settings ||| Просмотр и настройка автомода
+
+# Информация и статистика
+Get the avatar of a user ||| Показать аватар пользователя
+Get the banner of a user ||| Показать баннер пользователя
+List all bots in the server ||| Список всех ботов на сервере
+List all moderators in the server ||| Список всех модераторов на сервере
+List all roles in the server ||| Список всех ролей на сервере
+List members in a specific role ||| Список участников с определённой ролью
+Export a list of all bot accounts ||| Экспортировать список ботов
+Export a list of all channel categories ||| Экспортировать список категорий каналов
+Export a list of all human members ||| Экспортировать список людей
+Export a list of all server roles ||| Экспортировать список ролей сервера
+Export a list of all text channels ||| Экспортировать список текстовых каналов
+Export a list of all voice channels ||| Экспортировать список голосовых каналов
+Export all server emojis ||| Экспортировать все эмодзи сервера
+Export all server members (humans + bots) ||| Экспортировать всех участников (люди и боты)
+Export all server configuration and settings ||| Экспортировать настройки сервера
+Export recent messages from a channel ||| Экспортировать последние сообщения канала
+
+# Утилиты и конвертеры
+Convert decimal to hexadecimal ||| Перевести десятичное число в шестнадцатеричное
+Convert hexadecimal to decimal ||| Перевести шестнадцатеричное число в десятичное
+Convert kilograms to pounds ||| Перевести килограммы в фунты
+Convert centimeters to feet and inches ||| Перевести сантиметры в футы и дюймы
+Convert feet.inches to centimeters ||| Перевести футы и дюймы в сантиметры
+Convert a string to binary ||| Перевести текст в двоичный код
+Convert binary to a string ||| Перевести двоичный код в текст
+Convert binary to an integer ||| Перевести двоичный код в целое число
+Convert integers to binary ||| Перевести целые числа в двоичный код
+Encode text to ASCII85 ||| Кодировать текст в ASCII85
+Encode text to Base32 ||| Кодировать текст в Base32
+Encode text to hexadecimal ||| Кодировать текст в шестнадцатеричный
+Encode text to ROT13 ||| Кодировать текст ROT13
+Encode text to various formats ||| Кодировать текст в разные форматы
+Interactive calculator with buttons ||| Интерактивный калькулятор с кнопками
+Get Urban Dictionary definition of a word ||| Найти значение слова в Urban Dictionary
+
+# Тикеты, поддержка, отзывы
+Claim the current ticket ||| Взять текущий тикет
+Close the current ticket ||| Закрыть текущий тикет
+Submit Your Review ||| Отправить отзыв
+Support System ||| Система поддержки
+
+# Ролевые и шуточные команды
+Browse anime profile pictures ||| Аниме-аватарки
+Browse female profile pictures ||| Женские аватарки
+Browse male profile pictures ||| Мужские аватарки
+Check how much of a simp someone is ||| Шуточный замер «симпости»
+Eat something ||| Съесть что-нибудь
+Give a thumbs up ||| Показать большой палец вверх
+Give someone a death stare ||| Убийственно посмотреть на кого-нибудь
+Kill someone ||| Убить кого-нибудь
+Kiss someone ||| Поцеловать кого-нибудь
+Laugh out loud ||| Посмеяться
+Lick someone ||| Лизнуть кого-нибудь
+Pat someone ||| Погладить кого-нибудь
+Poke someone ||| Ткнуть кого-нибудь
+Run away ||| Убежать
+Slap someone ||| Дать пощёчину
+Take a bow ||| Поклониться
+Tickle someone ||| Пощекотать кого-нибудь
+Shows pp size (for fun) ||| Шуточный «размер» (pp)
+Pretend to hack someone's discord account (for fun) ||| Шуточно «взломать» чей-то аккаунт Discord
+Generate a fake Discord message card ||| Сделать шуточную карточку сообщения Discord
+Generate a fake nitro gift link ||| Сгенерировать шуточную ссылку на подарок Nitro
+Fake server destruction command ||| Шуточная «команда уничтожения сервера»

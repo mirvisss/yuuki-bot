@@ -1,0 +1,83 @@
+# Батч 3 — ошибки нехватки аргументов, некорректные значения, служебные ответы.
+# {0}, {1} — подстановки (эмодзи, пользователь, число), порядок должен совпадать с оригиналом.
+
+# --- Упоминание пользователя (ролевые команды) ---
+{0} Please mention a user to hug!\n{1} {2} ||| {0} Чтобы обнять, упомяните пользователя!\n{1} {2}
+{0} Please mention a user to kill!\n{1} {2} ||| {0} Чтобы «убить», упомяните пользователя!\n{1} {2}
+{0} Please mention a user to kiss!\n{1} {2} ||| {0} Чтобы поцеловать, упомяните пользователя!\n{1} {2}
+{0} Please mention a user to lick!\n{1} {2} ||| {0} Чтобы лизнуть, упомяните пользователя!\n{1} {2}
+{0} Please mention a user to pat!\n{1} {2} ||| {0} Чтобы погладить, упомяните пользователя!\n{1} {2}
+{0} Please mention a user to poke!\n{1} {2} ||| {0} Чтобы ткнуть, упомяните пользователя!\n{1} {2}
+{0} Please mention a user to slap!\n{1} {2} ||| {0} Чтобы дать пощёчину, упомяните пользователя!\n{1} {2}
+{0} Please mention a user to stare at!\n{1} {2} ||| {0} Чтобы посмотреть, упомяните пользователя!\n{1} {2}
+{0} Please mention a user to tickle!\n{1} {2} ||| {0} Чтобы пощекотать, упомяните пользователя!\n{1} {2}
+Please mention a user to {0} from the bypass list.\n\n{1} {2} ||| Упомяните пользователя, чтобы {0} из списка обхода.\n\n{1} {2}
+Please mention a user to check their dumb rate! ||| Упомяните пользователя, чтобы узнать его «глупость»!
+Please mention a user to check their gay rate! ||| Упомяните пользователя, чтобы проверить его «гей-рейт»!
+Please mention a user or provide a valid user ID. ||| Упомяните пользователя или укажите корректный ID.
+> Please mention a user or provide a valid user ID. ||| > Упомяните пользователя или укажите корректный ID.
+
+# --- Не хватает аргументов ---
+{0} Please provide text to encode!\n{1} {2} ||| {0} Укажите текст для кодирования!\n{1} {2}
+{0} Please provide text to convert!\n{1} {2} ||| {0} Укажите текст для преобразования!\n{1} {2}
+{0} Please provide binary to convert!\n{1} {2} ||| {0} Укажите двоичный код для преобразования!\n{1} {2}
+{0} Please provide a number to convert!\n{1} {2} ||| {0} Укажите число для преобразования!\n{1} {2}
+{0} Please provide decimal value!\n{1} {2} ||| {0} Укажите десятичное число!\n{1} {2}
+{0} Please provide hexadecimal value!\n{1} {2} ||| {0} Укажите шестнадцатеричное значение!\n{1} {2}
+{0} Please provide kilograms to convert!\n{1} {2} ||| {0} Укажите килограммы для преобразования!\n{1} {2}
+{0} Please provide centimeters to convert!\n{1} {2} ||| {0} Укажите сантиметры для преобразования!\n{1} {2}
+{0} Please provide feet to convert!\n{1} {2} ||| {0} Укажите футы для преобразования!\n{1} {2}
+{0} Please provide format and text!\n{1} {2}\n{3} b32, b64, b85, rot13, hex ||| {0} Укажите формат и текст!\n{1} {2}\n{3} b32, b64, b85, rot13, hex
+{0} Please provide a nickname!\n{1} {2} ||| {0} Укажите ник!\n{1} {2}
+{0} Please provide bio text!\n{1} {2} ||| {0} Укажите текст описания!\n{1} {2}
+Please provide a word to define!\nUsage: {0} ||| Укажите слово для поиска!\nИспользование: {0}
+Please provide a prefix.\n\n{0} {1} ||| Укажите префикс.\n\n{0} {1}
+Please provide a command name.\n\n{0} {1} ||| Укажите название команды.\n\n{0} {1}
+Please provide a search query.\n\n ||| Укажите поисковый запрос.\n\n
+Please provide a message to display. ||| Укажите сообщение для отправки.
+Please provide a link for your profile. ||| Укажите ссылку для профиля.
+Please provide a description for your profile.\n\n ||| Укажите описание профиля.\n\n
+Please provide an image link for your profile background.\n\n ||| Укажите ссылку на изображение для фона профиля.\n\n
+Please provide a task to add to your todo list.\n\n ||| Укажите задачу для списка дел.\n\n
+Please provide a todo ID to remove.\n\n ||| Укажите ID задачи для удаления.\n\n
+Please provide a URL to check for Rick Roll! ||| Укажите ссылку для проверки на Rick Roll!
+Please provide a valid image URL! ||| Укажите корректную ссылку на изображение!
+Please provide a valid image URL starting with http:// or https:// ||| Укажите корректную ссылку на изображение, начинающуюся с http:// или https://
+Please provide a valid number. ||| Укажите корректное число.
+Please provide a valid user mention, ID, or username. ||| Упомяните пользователя или укажите корректный ID либо имя.
+Please provide some text to convert to emojis. ||| Укажите текст для преобразования в эмодзи.
+{0}\n\nPlease provide a prompt. ||| {0}\n\nУкажите запрос.
+{0}\n\nPlease provide a valid image file (PNG, JPG, GIF, or WebP). ||| {0}\n\nПрикрепите корректный файл изображения (PNG, JPG, GIF или WebP).
+{0} Please provide a valid text channel! ||| {0} Укажите корректный текстовый канал!
+{0} Invalid channel! ||| {0} Некорректный канал!
+{0} Invalid category! Choose from: {1}, {2}, {3}, {4} ||| {0} Некорректная категория! Доступны: {1}, {2}, {3}, {4}
+
+# --- Некорректные значения и ссылки ---
+Invalid cryptocurrency. ||| Некорректная криптовалюта.
+Invalid hex color. Use {0} hex digits like {1}. ||| Некорректный HEX-цвет. Укажите {0} шестнадцатеричных знаков, например {1}.
+Invalid role ID: {0} ||| Некорректный ID роли: {0}
+Invalid position. This server only has {0} members. ||| Некорректная позиция. На сервере всего {0} участников.
+No transactions found or address is invalid. ||| Транзакции не найдены или адрес указан неверно.
+The provided URL format is invalid! ||| Указанный формат ссылки некорректен!
+Failed to check the URL. It might be invalid, unreachable, or protected. ||| Не удалось проверить ссылку: она может быть неверной, недоступной или защищённой.
+# Invalid URL\n*Error occurred* ||| # Некорректная ссылка\n*Произошла ошибка*
+### Invalid URL ||| ### Некорректная ссылка
+# Invalid Image Link ||| # Некорректная ссылка на изображение
+# Invalid Amount ||| # Некорректная сумма
+# Invalid Subcommand\nSubcommand not found ||| # Некорректная подкоманда\nПодкоманда не найдена
+### Antinuke Triggered ||| ### Сработал анти-нюк
+### Usage ||| ### Использование
+> Usage: {0} ||| > Использование: {0}
+> Usage\n ||| > Использование\n
+Usage: {0}\nExample: {1} ||| Использование: {0}\nПример: {1}
+
+# --- Описания параметров и служебное ---
+The user to check (defaults to yourself) ||| Пользователь для проверки (по умолчанию — вы)
+User to check (default: yourself) ||| Пользователь для проверки (по умолчанию — вы)
+The second user (defaults to yourself) ||| Второй пользователь (по умолчанию — вы)
+The user (defaults to yourself) ||| Пользователь (по умолчанию — вы)
+Set a reminder for yourself ||| Поставить напоминание
+Set yourself as AFK with a reason ||| Уйти в AFK с указанием причины
+Get a random rizz line for yourself or someone else ||| Случайная «подкатная» фраза для вас или другого
+Track and display emoji usage statistics across the server ||| Статистика использования эмодзи на сервере
+Show emoji usage statistics ||| Показать статистику использования эмодзи
