@@ -1,0 +1,23 @@
+*
+!src/
+!src/**
+!package.json
+!README.md
+!LICENSE
+!.gitignore
+# файлы для деплоя (нужны серверу, поэтому публикуются)
+!Dockerfile
+!.dockerignore
+!DEPLOY.md
+!.github/
+!.github/**
+
+src/.command_hash
+tempassets/
+
+# секреты окружения (файл-шаблон .env.example — публикуется)
+.env
+!.env.example
+
+# рантайм-логи (создаются автоматически при старте)
+src/logs/

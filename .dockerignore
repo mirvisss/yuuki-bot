@@ -1,0 +1,10 @@
+node_modules
+.git
+.env
+.freebuff
+tempassets
+tempassets.bak
+src/logs
+Dockerfile
+docker-compose.yml
+DEPLOY.md
