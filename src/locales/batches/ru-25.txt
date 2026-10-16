@@ -1,0 +1,85 @@
+- Channel: #{0} ||| - Канал: #{0}
+- Duration: {0} ||| - Длительность: {0}
+- Invite: {0} ||| - Приглашение: {0}
+- Rows deleted: {0} ||| - Удалено строк: {0}
+- The image format is not supported ||| - Формат изображения не поддерживается
+[Read Full Article]({0}) ||| [Читать всю статью]({0})
+[Read More]({0}) ||| [Подробнее]({0})
+[SOFTBAN] {0} ||| [СОФТБАН] {0}
+[view @user] | [description <text>] | [social <platform> <link>] | [background <url>] | [reset] | [card @user] ||| [view @user] | [description <текст>] | [social <платформа> <ссылка>] | [background <ссылка>] | [reset] | [card @user]
+{0} Offline ||| {0} Не в сети
+{0} set to {1} ||| {0} установлен на {1}
+{0} Simple ||| {0} Простое
+{0} size: {1} ||| {0} размер: {1}
+{0}  [EmojiSync]{1} ||| {0}  [EmojiSync]{1}
+{0} · Wallet Address ||| {0} · Адрес кошелька
+{0} {1}  Application currently has {2} emoji(s) uploaded ||| {0} {1}  В приложении сейчас загружено смайлов: {2}
+{0} Congratulations! 🎊 ||| {0} Поздравляем! 🎊
+{0} Custom Status ||| {0} Свой статус
+{0} Disabled ||| {0} Отключено
+{0} has been added to the whitelist. ||| {0} добавлен в белый список.
+{0} has been added to this ticket by {1}. ||| {0} добавлен в этот тикет пользователем {1}.
+{0} has been removed from support roles. ||| {0} удалён из ролей поддержки.
+{0} has been removed from this ticket. ||| {0} удалён из этого тикета.
+{0} hour(s) ||| {0} ч.
+{0} Listening to ||| {0} Слушает
+{0} Owner: {1} ||| {0} Владелец: {1}
+{0} Playing ||| {0} Играет в
+{0} Poor ||| {0} Плохо
+{0} Streaming ||| {0} Стримит
+{0} Unknown ||| {0} Неизвестно
+{0} Watching ||| {0} Смотрит
+{0}. Button Row — {1} link button(s) ||| {0}. Ряд кнопок — ссылочных кнопок: {1}
+{0}. Unknown ||| {0}. Неизвестно
+**Avatar:** Updated ||| **Аватар:** обновлён
+**Banner:** Updated ||| **Баннер:** обновлён
+**Log Channel:** None ||| **Канал логов:** не задан
+**Status:** Disabled ||| **Статус:** отключено
+**Status:** Enabled ||| **Статус:** включено
+*No text content* ||| *Нет текстового содержимого*
+*Page {0} of {1} • Showing {2} emojis* ||| *Страница {0} из {1} • Показано смайлов: {2}*
+*Page {0} of {1} • Showing {2} roles* ||| *Страница {0} из {1} • Показано ролей: {2}*
+# {0} {1} Activity ||| # Активность {0} {1}
+# Search Error ||| # Ошибка поиска
+> Set {2} ||| > Установлено {2}
+All Members ||| Все участники
+Antinuke: {0} ||| Antinuke: {0}
+API error: {0} ||| Ошибка API: {0}
+Author: {0} ||| Автор: {0}
+AutoMod: {0} ||| AutoMod: {0}
+Bot {0} ||| Бот {0}
+Cannot remove the primary support role. Use `ticket reset` and reconfigure to change it. ||| Нельзя удалить основную роль поддержки. Используйте `ticket reset` и настройте заново, чтобы изменить её.
+Channel ID: {0} ||| ID канала: {0}
+Channel: #{0} ||| Канал: #{0}
+Claimed by {0} ||| Занято пользователем {0}
+Control panel: {0} ||| Панель управления: {0}
+could not read file: {0} ||| не удалось прочитать файл: {0}
+Disk Free ||| Свободно на диске
+Eval ||| Eval
+Failed — {0} ||| Ошибка — {0}
+Failed to DM you. Please enable DMs from server members. ||| Не удалось отправить вам личное сообщение. Разрешите ЛС от участников сервера.
+Failed to export messages. ||| Не удалось экспортировать сообщения.
+Failed to export messages. Make sure the bot has access to the channel. ||| Не удалось экспортировать сообщения. Убедитесь, что у бота есть доступ к каналу.
+Failed to export warnings. ||| Не удалось экспортировать предупреждения.
+Failed to export warnings. The warnings database may not exist yet. ||| Не удалось экспортировать предупреждения. Возможно, базы предупреждений ещё нет.
+Failed to fetch results. Please try again later. ||| Не удалось получить результаты. Попробуйте позже.
+Failed to generate the transcript. ||| Не удалось создать транскрипт.
+Failed to give role. ||| Не удалось выдать роль.
+Failed to kick user from voice: {0} ||| Не удалось отключить пользователя от голосового канала: {0}
+Failed to kick user. ||| Не удалось исключить пользователя.
+Failed to lock channel: {0} ||| Не удалось заблокировать канал: {0}
+Failed to lock channel. ||| Не удалось заблокировать канал.
+Failed to make channel private: {0} ||| Не удалось сделать канал приватным: {0}
+Failed to make channel public: {0} ||| Не удалось сделать канал публичным: {0}
+Failed to move user: {0} ||| Не удалось переместить пользователя: {0}
+Failed to mute user: {0} ||| Не удалось заглушить пользователя: {0}
+Failed to mute user. ||| Не удалось заглушить пользователя.
+Failed to pull user: {0} ||| Не удалось переместить пользователя в вас: {0}
+Failed to reload commands ||| Не удалось перезагрузить команды
+Failed to remove role. ||| Не удалось снять роль.
+Failed to remove the user. Please check permissions and try again. ||| Не удалось удалить пользователя. Проверьте права и попробуйте снова.
+Failed to rename the ticket channel. ||| Не удалось переименовать канал тикета.
+Failed to reopen the ticket. Please try again. ||| Не удалось открыть тикет заново. Попробуйте ещё раз.
+Failed to search Wikipedia. Please try again later. ||| Не удалось выполнить поиск в Википедии. Попробуйте позже.
+Failed to send ticket panel: {0} ||| Не удалось отправить панель тикетов: {0}
+Failed to set slowmode. ||| Не удалось установить слоумод.

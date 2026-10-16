@@ -1,0 +1,279 @@
+# Antinuke Setup\n**Step 1 of 3** - Select Modules ||| # Antinuke Setup\n**Шаг 1 из 3** - Выберите модули
+# Antinuke Setup\n**Step 2 of 3** - Threshold & Punishment ||| # Antinuke Setup\n**Шаг 2 из 3** - Порог и наказание
+# Antinuke Setup\n**Step 3 of 3** - Log Channel ||| # Antinuke Setup\n**Шаг 3 из 3** - Log Channel
+# AutoMod Setup\n**Step 1 of 3** - Select Modules ||| # AutoMod Setup\n**Шаг 1 из 3** - Выберите модули
+# AutoMod Setup\n**Step 2 of 3** - Configure Punishments ||| # AutoMod Setup\n**Шаг 2 из 3** - Настройка наказаний
+# AutoMod Setup\n**Step 3 of 3** - Configure Thresholds ||| # AutoMod Setup\n**Шаг 3 из 3** - Настройка пороговых значений
+# Feedback System Setup\n**Step 1 of 2** ||| # Настройка системы обратной связи\n**Шаг 1 из 2**
+# Feedback System Setup\n**Step 2 of 2** ||| # Настройка системы обратной связи\n**Шаг 2 из 2**
+# Join to Create Setup\n**Step 1 of 3** ||| # Join to Create Setup\n**Шаг 1 из 3**
+# Join to Create Setup\n**Step 2 of 3** ||| # Join to Create Setup\n**Шаг 2 из 3**
+# Join to Create Setup\n**Step 3 of 3** ||| # Join to Create Setup\n**Шаг 3 из 3**
+# {0} {1} Roles ||| # {0} {1} Роли
+(All events) ||| Все мероприятия
+(Deleted Role) ||| (Удаленная роль)
+**Aliases:** speak, texttospeech ||| **Псевдонимы:** Speak, texttospeech
+**Can now:** Send messages in media channel ||| ** Теперь можно:** Отправлять сообщения в медиа-канале
+**Configure your embed message:**\n\nClick "Add Emoji-Role" to add pairs, or "Continue" to proceed to review. ||| **Настройте сообщение embed:**\n\nНажмите Добавить Emoji-Role, чтобы добавить пары, или Продолжить, чтобы перейти к проверке.
+**Disconnect Member**\n\nSelect a member to disconnect from your voice channel: ||| **Отключить участника**\n\nВыберите участника для отключения от голосового канала:
+**Error**\n\nAI service is not configured. ||| **Ошибка**\n\nСлужба AI не настроена.
+**Error**\n\nAn unexpected error occurred while analyzing the image. ||| **Ошибка**\n\nПри анализе изображения произошла непредвиденная ошибка.
+**Error**\n\nAn unexpected error occurred while generating speech. ||| **Ошибка**\n\nПри генерации речи произошла непредвиденная ошибка.
+**Error**\n\nAn unexpected error occurred. ||| **Ошибка**\n\nПроизошла непредвиденная ошибка.
+**Error**\n\nFailed to fetch user banner. ||| **Ошибка**\n\nНе удалось получить баннер пользователя.
+**Error**\n\nGroq API key is not configured. ||| **Ошибка**\n\nКлюч Groq API не настроен.
+**Error**\n\nPlease attach an image or reply to a message with an image. ||| **Ошибка**\n\nПрикрепите изображение или ответьте на сообщение с изображением.
+**Error**\n\nPlease provide a prompt. ||| **Ошибка**\n\nПожалуйста, предоставьте подсказку.
+**Error**\n\nPlease provide a valid image file (PNG, JPG, GIF, or WebP). ||| **Ошибка**\n\nУкажите допустимый файл изображения (PNG, JPG, GIF или WebP).
+**How it works**\n- Detects: discord.gg/vanitycode, .gg/vanitycode, /vanitycode\n- Grants role when found in status\n- Removes role when status is cleared ||| **Как это работает**\n- Обнаруживает: discord.gg/vanitycode,.gg/код тщеславия, /код тщеславия\n- Предоставляет роль при обнаружении в статусе\n- Удаляет роль, когда статус очищен
+**Icon:** Updated ||| **Значок:** Обновлено
+**Invalid algorithm.**\n**Available algorithms:** md5, sha1, sha224, sha256, sha384, sha512, all ||| **Недопустимый алгоритм.**\n**Доступные алгоритмы:** md5, sha1, sha224, sha256, sha384, sha512, all
+**Logging Setup**\nSetup cancelled. No changes were saved. ||| ** Настройка ведения журнала **\nУстановка отменена. Изменения не сохранены.
+**No Users Found**\n\nThere are no users in the bypass list. ||| ** Пользователи не найдены**\n\nВ списке обход нет пользователей.
+**Note:** Use a permanent image host like Imgur. Discord attachment URLs expire! ||| **Примечание:** Используйте постоянный хост изображений, например Imgur. Срок действия URL-адресов вложений Discord истекает!
+**Permissions:** None ||| **Разрешения:** Ԥ
+**Restriction:** Can no longer send messages in media channel ||| **Ограничение:** больше нельзя отправлять сообщения в медиаканале
+**Server Icon**\n\nThis command can only be used in a server. ||| ** Значок сервера **\n\nЭту команду можно использовать только на сервере.
+**Splash:** Updated ||| **Всплеск:** Обновлено
+**Status:** Added to bypass list ||| **Статус:** Добавлен в список обход
+**Status:** Removed from bypass list ||| **Статус:** Исключен из списка обход
+**Timeout:** Removed ||| **Timeout:** Удалено
+**Type:** Simple ||| **Тип:** Простой
+**Usage:** `hash <algorithm> <text>`\n**Available algorithms:** md5, sha1, sha224, sha256, sha384, sha512, all ||| **Использование:** `hash<algorithm> <text>`\n**Доступные алгоритмы:** md5, sha1, sha224, sha256, sha384, sha512, all
+**Verification:** Completed membership screening ||| **Подтверждение:** проверка завершена
+**Voice Activities**\n\nRight-click the voice channel and select 'Activities' to start one! ||| **Голосовые действия**\n\nЩелкните правой кнопкой мыши голосовой канал и выберите Действия, чтобы запустить его!
+**Voting Instructions:**\nYes/Agree - React with checkmark\nNo/Disagree - React with X ||| ** Инструкции по голосованию:**\nДа/Согласен - Реагируйте с помощью галочки\nНет/не согласен - Реагировать с X
+*Current status and activities* ||| *Текущее состояние и деятельность*
+*Server roles and permissions* ||| * Роли и разрешения сервера *
+*This user has no roles assigned.* ||| * У этого пользователя нет назначенных ролей.*
+*This user is not a member of this server.* ||| *Этот пользователь не является участником этого сервера.*
+- All tracking data ||| - Все данные отслеживания
+- Automatically grants role when detected ||| - Автоматически предоставляет роль при обнаружении
+- Detects: discord.gg/code, .gg/code, /code in user status ||| - Обнаруживает: discord.gg/code,.gg/code, /code в статусе пользователя
+- Discord attachment URLs expire - use Imgur instead ||| - URL-адреса вложений Discord истекают - вместо них используйте Imgur
+- Expires: 24h · Max uses: 1 ||| - Истекает: 24 часа · Максимальное использование: 1
+- Grants role when user has vanity code in status ||| - Предоставляет роль, когда у пользователя есть код тщеславия в статусе
+- The URL is invalid or expired ||| - URL-адрес недействителен или истек.
+- Vanity role configuration ||| - Конфигурация роли Тщеславие
+- vanity config - View configuration ||| - Конфигурация тщеславие - Просмотр конфигурации
+- vanity reset - Delete all data ||| - Сброс тщеславия - Удалить все данные
+- vanity setup - Configure role granting ||| - Настройка тщеславия - Настройка предоставления ролей
+- {0} — added ||| - {0} — добавлено
+1 - Claim ownership of a voice channel ||| 1 - Заявить право собственности на голосовой канал
+1 - Decrease user limit ||| 1 - Уменьшить лимит пользователей
+1 - Disconnect a member from your VC ||| 1. Отключите участника от VC.
+1 - Hide the voice channel ||| 1 - Скрыть голосовой канал
+1 - Increase user limit ||| 1 - Увеличить лимит пользователей
+1 - Lock the voice channel ||| 1 - Блокировка голосового канала
+1 - Unhide the voice channel ||| 1 - Отображение голосового канала
+1 - Unlock the voice channel ||| 1 - Разблокировка голосового канала
+1 - View channel information ||| 1 - Просмотр информации о канале
+1 - View voice activities ||| 1 - Просмотр голосовых действий
+1 doesn't have a server icon set. ||| 1 не имеет установленного значка сервера.
+1Database Performance1 ||| 1Производительность базы данных1
+A little fruity... ||| Немного фруктового...
+AFK Timeout: {0} seconds ||| AFK Timeout: {0} секунд
+API error - try again later ||| Ошибка API - повторите попытку позже
+API key ||| API ключ
+About ||| Сведения
+Accent Color: none ||| Цветовой акцент:
+Action taken: delete, warn, mute, kick, ban ||| Принятые меры: удаление, предупреждение, отключение звука, удар ногой, запрет
+Add Reactions ||| Добавить реакции
+Add more pairs or click **Continue** to proceed to review. ||| Добавьте больше пар или нажмите **Продолжить**, чтобы перейти к проверке.
+All API keys failed ||| Сбой всех ключей API
+All Messages ||| Все сообщения
+All commands are accessible to everyone. ||| Все команды доступны каждому.
+All commands are locked for non-owners. ||| Все команды заблокированы для лиц, не являющихся владельцами.
+All whitelist entries have been removed. ||| Все записи белого списка были удалены.
+All whitelisted users have been removed. ||| Все пользователи из белого списка были удалены.
+All {0} emoji(s) failed ||| Сбой всех {0} смайликов
+All {0} emoji(s) stolen successfully ||| Все {0} эмодзи успешно украдены
+Announcement Channel ||| Канал объявлений
+Announcement Thread ||| Цепочка объявлений
+Anti Ban ||| Анти-бан
+Anti Bot ||| анти бот
+Anti Channel Create ||| Создание антиканала
+Anti Channel Delete ||| Удаление канала:
+Anti Guild Update ||| Обновление Anti Guild
+Anti Kick ||| Противоударный
+Anti Role Create ||| Антиролевое создание
+Anti Role Delete ||| Антиролевое удаление
+Anti Role Update ||| Обновление роли
+Anti Webhook ||| Антивебхук
+Anti-Guild Update ||| Обновление Anti-Guild
+Antinuke has been disabled. Your server is no longer protected. ||| Антинук отключен. Ваш сервер больше не защищен.
+Antinuke has been enabled. Your server is now protected. ||| Antinuke был включен. Теперь ваш сервер защищен.
+Antinuke has been reset to default settings and **disabled**. ||| Antinuke был сброшен до настроек по умолчанию и **отключен**.
+Antinuke: Unauthorized bot addition ||| Antinuke: несанкционированное добавление бота
+Are you Australian? Because you meet all of my **koala**fications. ||| Ты австралиец? Потому что ты встречаешься со всеми моими **коалами**.
+Are you French? Because **Eiffel** for you. ||| Вы француженка? Потому что **Эйфель** для вас.
+Are you a banana? Because I find you **a peeling**. ||| Ты банан? Потому что я нахожу тебя **пилингом**.
+Are you a criminal? Because you just stole my heart. ||| Вы преступник? Потому что ты только что украл мое сердце.
+Are you a magician? Because whenever I look at you, everyone else disappears. ||| Ты фокусник? Потому что всякий раз, когда я смотрю на тебя, все остальные исчезают.
+Are you a teapot? Because I like your **steamed** drink. ||| Вы чайник? Потому что мне нравится твой **приготовленный на пару** напиток.
+Are you from Starbucks? Because I like you a **latte**. ||| Вы из Starbucks? Потому что ты мне нравишься **латте**.
+Array of {emoji, roleId, roleLabel} objects ||| Массив из {emoji, roleId, roleLabel} объектов
+Attach Files ||| Прикрепить файлы
+Authentication failed ||| Аутентификация не выполнена
+AutoMod has been disabled. Messages will no longer be moderated. ||| Автомод отключен. Сообщения больше не будут модерироваться.
+AutoMod has been enabled. Messages will be moderated. ||| Автомод включен. Сообщения будут модерироваться.
+AutoMod has been reset to default settings and **disabled**. ||| AutoMod был сброшен до настроек по умолчанию и **отключен**.
+Available Themes: ||| Доступные шаблоны
+Average brain capacity ||| Средняя емкость мозга
+BCH API unavailable ||| BCH API недоступен
+Babe did it hurt when you fell from heaven? ||| Ты не ударилась, когда упала с небес?
+Baby, life without you is like a broken pencil... **pointless**. ||| Детка, жизнь без тебя как сломанный карандаш... **бессмысленна**.
+Bad words punishment ||| Наказание за плохие слова
+Ban Members ||| Запретить участников
+Ban/unban/kick/timeout logs ||| Журналы Ban/unban/kick/timeout
+Barely any rainbow vibes ||| Почти нет радужных флюидов
+Bitrate: 1kbps ||| Битрейт: 1 кбит/с
+Blacklisted word ||| Слово в черном списке
+Block links ||| Блокировать ссылки
+Blocks: {1} ||| Блоки: {1}
+Boost Count: {0} ||| Количество Boost: {0}
+Boost Level: {0} ||| Уровень Boost: {0}
+Bot Overview ||| Обзор бота
+Bot Uptime ||| Время работы бота
+Brain cells leaving the chat ||| Клетки мозга, покидающие чат
+Bulk Delete Log - {0} ||| Журнал массового удаления - {0}
+Bypass List Full ||| Полный список Байпас
+CPU Usage ||| Использование CPU
+CPU cores must be a positive number ||| Ядра ЦП должны быть положительным числом
+CPU must be a string ||| должно быть строкой
+CPU percentage must be between 1% and 1000% ||| Процент ЦП должен быть от 1% до 1000%
+Calculating... ||| Расчет...
+Caps punishment ||| Наказание Caps
+Caps: {0}% max ||| Крышки: {0}% макс.
+Category for temp VCs ||| Категория для временного VC
+Certified smooth brain moment ||| Сертифицированный гладкий мозговой момент
+Change Nickname ||| Изменить псевдоним
+Changing all guild settings... ||| Изменение всех настроек гильдии...
+Channel Not Found ||| Канал не найден
+Channel for antinuke logs ||| Канал для журналов антиубийств
+Channel for automod logs ||| Канал для журналов automod
+Channel where action occurred ||| Канал, в котором произошло действие
+Channel {0} has been added to the whitelist. ||| Канал {0} добавлен в белый список.
+Channel {0} is already whitelisted. ||| Канал {0} уже в белом списке.
+Channel/role/server/emoji/sticker logs ||| Журналы каналов/ролей/серверов/эмодзи/стикеров
+Channel: #{0} ({1}) ||| Канал: #{0} ({1})
+Channels where AI is enabled ||| Каналы, в которых включен ИИ
+Channels ||| Швеллеры
+Channels: {0} text, {1} voice ||| Каналы: {0} текст, {1} голос
+Choose how you want to organize your tickets:\n- **Single Category System**\n> All tickets will be created under one category\n- **Multiple Category System**\n> Different ticket types will have their own categories ||| Выберите, как вы хотите организовать свои билеты:\n- ** Однокатегорийная система**\n> Все тикеты будут созданы в одной категории\n- ** Система нескольких категорий **\n> Различные типы билетов будут иметь свои категории
+Choose the type of farewell message you want to create:\n\n**Simple**\nSend a plain text farewell message. You can use placeholders to personalize it.\n\n**Container**\nSend a farewell message in a container format. You can customize the embed with a title, description, image, etc. ||| Выберите тип прощального сообщения, которое вы хотите создать:\n\n**Просто**\nОтправьте простое текстовое прощальное сообщение. Вы можете использовать заполнители для его персонализации.\n\n**Контейнер**\nОтправить прощальное сообщение в формате контейнера. Вы можете настроить вставку с заголовком, описанием, изображением и т. д.
+Choose the type of welcome message you want to create:\n\n**Simple**\nSend a plain text welcome message. You can use placeholders to personalize it.\n\n**Container**\nSend a welcome message in a container format. You can customize the embed with a title, description, image, etc. ||| Выберите тип приветственного сообщения, которое вы хотите создать:\n\n**Просто**\nОтправьте простое текстовое приветственное сообщение. Вы можете использовать заполнители для его персонализации.\n\n**Контейнер**\nОтправьте приветственное сообщение в формате контейнера. Вы можете настроить вставку с заголовком, описанием, изображением и т. д.
+Color: {0} ||| Цвет: {0}
+Command executed with no output. ||| Команда выполнена без вывода.
+Competing in {0} ||| Соревнование за {0}
+Completely immune to simping ||| Полностью невосприимчив к симингу
+Completely straight ||| Полностью прямой
+Configure another category or click Done. ||| Настройте другую категорию или нажмите Готово.
+Configure another log type ||| Настройте другой тип журнала
+Container accent color (hex) ||| Цвет акцента контейнера (шестнадцатеричный)
+Container image URL ||| Изображение контейнера URL
+Container sent to {0}. ||| Контейнер отправлен на {0}.
+Container thumbnail URL ||| Миниатюра контейнера URL
+Control panel channel: {0} ||| Канал панели управления: {0}
+Control panel text channel ID ||| Панель управления текстовым каналом ID
+Could not find that member in this server. ||| Не удалось найти этого участника на этом сервере.
+Create Invite ||| Создать Приглашение
+Create Private Threads ||| Создание приватных потоков
+Create Public Threads ||| Создание общедоступных потоков
+Current Thresholds: ||| Пороговые значения тока:
+Custom timestamp (e.g., 12:43 AM) ||| Пользовательская временная метка (например, 00:43)
+DELETE FROM ai_history WHERE timestamp < $1 ||| УДАЛИТЬ ИЗ ai_history, ГДЕ timestamp < $ 1
+DELETE FROM bypassed_users WHERE guild_id = $1 AND user_id = $2 ||| УДАЛИТЬ ИЗ bypassed_users, ГДЕ guild_id = $ 1 И user_id = $ 2
+DELETE FROM feedback_config WHERE guild_id = $1 ||| УДАЛИТЬ ИЗ feedback_config, ГДЕ guild_id = $ 1
+DELETE FROM ignored_channels WHERE guild_id = $1 AND channel_id = $2 ||| УДАЛИТЬ ИЗ ignored_channels, ГДЕ guild_id = $ 1 И channel_id = $ 2
+DELETE FROM ignored_commands WHERE guild_id = $1 AND command_name = $2 ||| УДАЛИТЬ ИЗ ignored_commands, ГДЕ guild_id = $ 1 И command_name = $ 2
+DELETE FROM ignored_users WHERE guild_id = $1 AND user_id = $2 ||| УДАЛИТЬ ИЗ ignored_users, ГДЕ guild_id = $ 1 И user_id = $ 2
+DELETE FROM locked_commands WHERE command_name = $1 ||| УДАЛИТЬ ИЗ locked_commands, ГДЕ command_name = $ 1
+DELETE FROM media_bypass WHERE guild_id = $1 AND user_id = $2 ||| УДАЛИТЬ ИЗ media_bypass, ГДЕ guild_id = $ 1 И user_id = $ 2
+DELETE FROM media_channels WHERE guild_id = $1 ||| УДАЛИТЬ ИЗ media_channels, ГДЕ guild_id = $ 1
+DELETE FROM reminders WHERE id = $1 ||| УДАЛИТЬ ИЗ напоминаний, ГДЕ id = $ 1
+DM Logs ||| Журналы DM
+DOGE API unavailable ||| ДОЖ API недоступен
+Deafen Members ||| Глухие участники
+Default Notifications: {0} ||| Уведомления по умолчанию: {0}
+Definitely questioning ||| Определенно задавать вопросы
+Delete messages in bulk with optional filters. ||| Удаляйте массовые сообщения с помощью дополнительных фильтров.
+Deleting Webhooks... ||| Удаление веб-перехватчиков...
+Deleting emojis... ||| Удаление эмодзи...
+Deleting {0} Channels... ||| Удаление {0} каналов...
+Deleting {0} Roles... ||| Удаление {0} ролей...
+Describe this image in detail. ||| Подробно опишите это изображение.
+Detailed ||| Детали
+Discord Guild ID ||| Гильдия Раздор ID
+Discord User ID of owner ||| Discord Пользователь ID владельца
+Discord User ID of the owner. ||| Discord Пользователь ID владельца.
+Discord User ID of the playlist owner. ||| Discord Пользователь ID владельца плейлиста.
+Discord User ID ||| Discord Пользователь ID
+Discord Voice Channel ID ||| Discord Голосовой канал ID
+Discord invite link ||| Ссылка Discord invite
+Do Not Disturb ||| Не беспокоить
+Do you have a map? I just keep getting lost in your eyes. ||| у вас карты? Потому, что я держу, заблудился в ваших глазах.
+Down bad occasionally ||| Время от времени вниз плохо
+Edit Separator #{0} ||| Редактировать разделитель №{0}
+Edit ||| Правка
+Edited at: {0} ||| Изменено: {0}
+Embed Links ||| Ссылки Встроить
+Emoji ||| Эмодзи
+Enter a number from 1 to 5 ||| Введите число от 1 до 5
+Entry Confirmed ||| Запись подтверждена
+Entry not found in the whitelist. ||| Запись не найдена в белом списке.
+Entry {0} has been removed from the whitelist. ||| Запись {0} удалена из белого списка.
+Error: Division by zero ||| Ошибка: деление на ноль
+Execute JavaScript code with advanced features ||| Выполните код JavaScript с расширенными функциями
+Executor: {0} ({1}) ||| Исполнитель: {0} ({1})
+Explicit Content Filter: {0} ||| Фильтр явного содержимого: {0}
+External link ||| Внешняя ссылка
+Failed to add temporary role. ||| Не удалось добавить временную роль.
+Failed to add the user. Please check permissions and try again. ||| Не удалось добавить пользователя. Проверьте разрешения и повторите попытку.
+Failed to ban user. ||| Не удалось заблокировать пользователя.
+Failed to change the nickname. Make sure I have the required permissions. ||| Не удалось изменить псевдоним. Убедитесь, что у меня есть необходимые разрешения.
+Failed to close the ticket. Please try again. ||| Не удалось закрыть тикет. Повторите попытку.
+Failed to create invite: {0} ||| Не удалось создать invite: {0}
+Failed to deafen user: {0} ||| Не удалось оглушить пользователя: {0}
+Failed to delete the ticket channel. ||| Не удалось удалить канал билет.
+[Jump to Message]({0}) ||| [Перейти к сообщению]({0})
+[No text content] ||| Нет текстового Контента
+[REDACTED - Contains sensitive data] ||| [УДАЛЕНО - содержит конфиденциальные данные]
+[ROLEGIVE] By {0} ||| [ROLEGIVE] От {0}
+[ROLEREMOVE] By {0} ||| [ROLEREMOVE] От {0}
+[View Repository]({0}) ||| [Просмотр репозитория]({0})
+add <female/male/anime/random> <#channel> ||| добавить <female/male/anime/random> &lt;#channel&gt;
+add <task> ||| добавить <task>
+add <word> <emoji> ||| добавить <word> <emoji>
+already on application — skipped upload ||| уже в приложении — пропущена загрузка
+analyse <image> ||| анализировать
+ask <prompt> ||| спросить <prompt>
+background <url> ||| фон <url>
+bold 1px {0} ||| полужирный 1px {0}
+bold 21px {0} ||| жирный 21px {0}
+bold 28px {0} ||| жирный 28px {0}
+calc <expression> ||| УЗНАТЬ
+cm <value> ||| см
+crypto balance <coin> <address> ||| крипто-баланс <coin> <address>
+crypto convert <from> <to> <amount> ||| криптоконвертировать <from> <to> <amount>
+crypto price <coin> ||| цена криптовалюты <coin>
+crypto transaction <coin> <address> ||| криптотранзакция <coin> <address>
+cute {0} photo ||| милые {0} фото
+deafen <user> ||| глухой <user>
+define <word> ||| ОПИСАНИЕ
+encode <text> ||| кодировать
+{0} Competing in ||| {0} Конкуренция в
+{0} GB Free ||| {0} ГБ бесплатно
+{0} Please provide format and text! ||| {0} Пожалуйста, укажите формат и текст!
+{0} has been added as a support role. ||| {0} был добавлен в качестве роли поддержки.
+{0} is already whitelisted. ||| {0} уже в белом списке.
+{0} minutes, {1} seconds ||| {0} минут, {1} секунда
+{0} stolen  ·  {1} failed ||| {0} украдено  ·  {1} неудача
+{0} {1}  Client ID decoded from token: {2} ||| {0} {1}  Клиентский ID, декодированный из токена: {2}
+{0} {1}  Found {2} image(s) in tempassets/  |  {3} entries in emojis.json1 ||| {0} {1}  Найдено {2} изображений в tempassets/  |  {3} записей в emojis.json1
+{0} {1}x1b[1m Starting emoji sync from tempassets/...{2} ||| {0} {1}x1b[1m Запуск синхронизации эмодзи из темпасета/...{2}
+{0}. Media Gallery — {1} item(s) ||| {0}. Медиа-галерея — {1} элемент(-ы)
+{1} You can now continue the conversation. ||| {1} Теперь вы можете продолжить разговор.
+{count} command ||| {count} команда
+{count} commands ||| {count} команд
+⚠️ **No channel selected** — logs will be disabled. ||| ⚠️ ** Канал не выбран** — журналы будут отключены.

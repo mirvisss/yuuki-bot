@@ -1,0 +1,88 @@
+Failed to leave {0}: {1} ||| Не удалось выйти из {0}: {1}
+Failed to softban user. ||| Не удалось выполнить софтбан пользователя.
+Failed to temporarily ban user. ||| Не удалось временно забанить пользователя.
+Failed to toggle slowmode. ||| Не удалось переключить слоумод.
+Failed to transfer the ticket. Please try again. ||| Не удалось передать тикет. Попробуйте ещё раз.
+Failed to unban user. Check the user ID. ||| Не удалось разбанить пользователя. Проверьте ID пользователя.
+Failed to undeafen user: {0} ||| Не удалось снять заглушение с пользователя: {0}
+Failed to unlock channel: {0} ||| Не удалось разблокировать канал: {0}
+Failed to unlock channel. ||| Не удалось разблокировать канал.
+Failed to unmute user: {0} ||| Не удалось снять мут с пользователя: {0}
+Failed to unmute user. ||| Не удалось снять мут с пользователя.
+Farewell message channel ID ||| ID канала прощальных сообщений
+Farewell message content (for simple type) ||| Текст прощального сообщения (для простого типа)
+Farewell type: simple or container ||| Тип прощания: simple или container
+Features: ||| Возможности:
+Feedback ||| Обратная связь
+Feedback system is not configured for this guild.\n\nUse `/feedback setup` to configure it. ||| Система обратной связи не настроена для этого сервера.\n\nИспользуйте `/feedback setup`, чтобы настроить её.
+Feedback system is not configured! Use `/feedback setup` first. ||| Система обратной связи не настроена! Сначала выполните `/feedback setup`.
+Flags ||| Флаги
+Forum Channel ||| Форум-канал
+GB Free ||| ГБ свободно
+General ||| Общее
+General Stats ||| Общая статистика
+Generate images using AI (Imagen 4.0) ||| Генерация изображений с помощью ИИ (Imagen 4.0)
+Genius level IQ detected! ||| Обнаружен IQ гения!
+Giveaway Ended! ||| Розыгрыш завершён!
+Giveaway Not Found ||| Розыгрыш не найден
+Giveaway Started ||| Розыгрыш запущен
+Goodbye from {0}! ||| Прощай, {0}!
+Granted to {0} ||| Выдано {0}
+Guild {0} is not blacklisted ||| Сервер {0} не в чёрном списке
+Hash Generator ||| Генератор хешей
+Here are {0} messages from #{1} in {2}. ||| Вот {0} сообщений из #{1} на сервере {2}.
+Here are messages from #{0} in {1}. ||| Вот сообщения из #{0} на сервере {1}.
+Here are the {0} banned users from {1}. ||| Вот {0} забаненных пользователей с сервера {1}.
+Here are the {0} bot accounts from {1}. ||| Вот {0} ботов с сервера {1}.
+Here are the {0} categories from {1}. ||| Вот {0} категорий с сервера {1}.
+Here are the {0} emojis from {1}. ||| Вот {0} смайлов с сервера {1}.
+Here are the {0} human members from {1}. ||| Вот {0} живых участников с сервера {1}.
+Here are the {0} members from {1}. ||| Вот {0} участников с сервера {1}.
+Here are the {0} roles from {1}. ||| Вот {0} ролей с сервера {1}.
+Here are the {0} text channels from {1}. ||| Вот {0} текстовых каналов с сервера {1}.
+Here are the {0} voice channels from {1}. ||| Вот {0} голосовых каналов с сервера {1}.
+Here are the {0} warnings from {1}. ||| Вот {0} предупреждений с сервера {1}.
+How many servers is the bot in? ||| В скольких серверах находится бот?
+How to use the bot ||| Как пользоваться ботом
+Hyperspeed ||| Гиперскорость
+I am a good bot ||| Я хороший бот
+I can do it ||| Я могу это сделать
+I can't do that ||| Я не могу это сделать
+I can't help with that ||| Я не могу с этим помочь
+I couldn't find that user ||| Не удалось найти этого пользователя
+I don't know ||| Я не знаю
+I have a joke for you ||| У меня есть шутка для тебя
+I love you ||| Я люблю тебя
+I was just thinking about you ||| Я как раз думал о тебе
+I will be back ||| Я вернусь
+I'll be right back ||| Я скоро вернусь
+ID: {0} ||| ID: {0}
+If you need help, use `/help` ||| Если нужна помощь, используйте `/help`
+Image ||| Изображение
+Image Generation ||| Генерация изображений
+Image URL ||| Ссылка на изображение
+Imagen 4.0 ||| Imagen 4.0
+In this channel ||| В этом канале
+Inactive ||| Неактивно
+Include NSFW content ||| Включать NSFW-контент
+Info ||| Инфо
+Input ||| Ввод
+Insert your message here ||| Введите здесь сообщение
+Invite the bot ||| Пригласить бота
+Is the bot online? ||| Бот в сети?
+It works! ||| Работает!
+Join ||| Присоединиться
+Join a voice channel first ||| Сначала зайдите в голосовой канал
+Keep it up! ||| Так держать!
+Kick ||| Кик
+Kick User ||| Исключить пользователя
+Language ||| Язык
+Last Seen ||| Последний вход
+Leaderboard ||| Таблица лидеров
+Leave ||| Выйти
+Level ||| Уровень
+Level Up! ||| Новый уровень!
+Leveling ||| Уровни
+Loading... ||| Загрузка…
+Lock ||| Заблокировать
+Lock Channel ||| Заблокировать канал

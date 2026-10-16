@@ -1,0 +1,3 @@
+❌ Database error:  ||| ❌ Ошибка базы данных: 
+❌ Fatal:  ||| ❌ Критическая ошибка: 
+Please wait 1s before sending another AI message. ||| Подождите 1 секунду перед следующим сообщением к ИИ.

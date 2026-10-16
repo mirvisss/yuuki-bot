@@ -1,0 +1,99 @@
+Here are {0} messages from #{1} in {2}. ||| Вот {0} сообщений из #{1} на сервере {2}.
+Here are messages from #{0} in {1}. ||| Вот сообщения из #{0} на сервере {1}.
+Here are the {0} banned users from {1}. ||| Вот {0} забаненных пользователей с сервера {1}.
+Here are the {0} bot accounts from {1}. ||| Вот {0} ботов с сервера {1}.
+Here are the {0} categories from {1}. ||| Вот {0} категорий с сервера {1}.
+Here are the {0} emojis from {1}. ||| Вот {0} смайлов с сервера {1}.
+Here are the {0} human members from {1}. ||| Вот {0} участников с сервера {1}.
+Here are the {0} members from {1}. ||| Вот {0} участников с сервера {1}.
+Here are the {0} roles from {1}. ||| Вот {0} ролей с сервера {1}.
+Here are the {0} text channels from {1}. ||| Вот {0} текстовых каналов с сервера {1}.
+Here are the {0} voice channels from {1}. ||| Вот {0} голосовых каналов с сервера {1}.
+Here are the {0} warnings from {1}. ||| Вот {0} предупреждений с сервера {1}.
+Hi there! ||| Привет!
+Highest Role: {0} ||| Высшая роль: {0}
+Hmmm... questionable decisions ||| Хм… сомнительные решения
+How do you remember to breathe? ||| Как ты вообще не забываешь дышать?
+I cannot change the nickname of someone with an equal or higher role than mine. ||| Я не могу изменить ник тому, у кого роль равна моей или выше.
+I cannot change the server owner's nickname. ||| Я не могу изменить ник владельца сервера.
+I cannot deafen this user. They may have a higher role than me. ||| Я не могу заглушить этого пользователя. Возможно, его роль выше моей.
+I cannot disconnect this user. They may have a higher role than me. ||| Я не могу отключить этого пользователя. Возможно, его роль выше моей.
+I cannot move this user. They may have a higher role or the destination channel restricts access. ||| Я не могу переместить этого пользователя. Возможно, его роль выше моей или доступ в целевой канал ограничен.
+I cannot move this user. They may have a higher role than me. ||| Я не могу переместить этого пользователя. Возможно, его роль выше моей.
+I cannot undeafen this user. They may have a higher role than me. ||| Я не могу снять заглушение с этого пользователя. Возможно, его роль выше моей.
+I couldn't generate a response. ||| Не удалось сгенерировать ответ.
+I don't have permission to send messages in {0}. ||| У меня нет прав отправлять сообщения в {0}.
+I need **Manage Messages** permission in this channel. ||| Мне нужно право **Управлять сообщениями** в этом канале.
+I need the **Manage Channels** permission to lock voice channels. ||| Чтобы блокировать голосовые каналы, мне нужно право **Управлять каналами**.
+I need the **Manage Channels** permission to unlock voice channels. ||| Чтобы разблокировать голосовые каналы, мне нужно право **Управлять каналами**.
+I need the **Manage Nicknames** permission to change nicknames. ||| Чтобы менять ники, мне нужно право **Управлять никами**.
+I recall you said ||| Я помню, вы говорили
+I remember you said ||| Я помню, вы говорили
+I seem to have lost my phone number. Can I have yours? ||| Кажется, я потерял свой номер телефона. Может, дадите свой?
+I will remind you in {0} ({1}). ||| Я напомню вам через {0} ({1}).
+If I could rearrange the alphabet, I would put **U** and **I** together. ||| Если бы я мог переставить алфавит, я поставил бы **U** и **I** рядом.
+Information ||| Информация
+Installing Ban Wave... ||| Устанавливаю Ban Wave…
+Invalid BCH address ||| Неверный адрес BCH
+Invalid BTC address or API unavailable ||| Неверный адрес BTC или API недоступен
+Invalid Destination Channel ||| Неверный целевой канал
+Invalid DOGE address ||| Неверный адрес DOGE
+Invalid duration. Use formats like 1h, 7d, or permanent. ||| Неверная длительность. Используйте форматы вроде 1h, 7d или permanent.
+Invalid emoji or unsupported format ||| Неверный смайл или неподдерживаемый формат
+Invalid ETH address or API unavailable ||| Неверный адрес ETH или API недоступен
+Invalid hex color. Use 6 hex digits like `5865F2`. ||| Неверный HEX-цвет. Используйте 6 символов, например `5865F2`.
+Invalid LTC address ||| Неверный адрес LTC
+Invalid name. Use letters, numbers, and hyphens only. ||| Неверное имя. Используйте только буквы, цифры и дефисы.
+Invalid SerpAPI key. ||| Неверный ключ SerpAPI.
+Invalid Source Channel ||| Неверный исходный канал
+Invalid Time ||| Неверное время
+Invalid time format. Use a number followed by `s`, `m`, `h`, or `d`.\n**Examples:** `10m`, `2h`, `1d` ||| Неверный формат времени. Укажите число и `s`, `m`, `h` или `d`.\n**Примеры:** `10m`, `2h`, `1d`
+Invalid Winners ||| Неверное число победителей
+Invalid XRP address ||| Неверный адрес XRP
+Invite punishment ||| Наказание за приглашения
+J2C Configuration ||| Настройки J2C
+Join Logs ||| Логи входов
+Join to Create ||| Канал «Войти, чтобы создать»
+Join to Create trigger voice channel ID ||| ID голосового канала-триггера «Войти, чтобы создать»
+Join2Create ||| Join2Create
+Joined {0} ||| Присоединился {0}
+JSON array of banned words ||| JSON-массив запрещённых слов
+JSON array of exempt modules ||| JSON-массив исключённых модулей
+JSON array of whitelisted events, null means all events ||| JSON-массив разрешённых событий; null означает все события
+Kick Members ||| Исключать участников
+Language: {0} | Forks: {1} ||| Язык: {0} | Форков: {1}
+Leave Logs ||| Логи выходов
+Legacy: Channel for message events ||| Старый вариант: канал для событий сообщений
+Legacy: Channel for server events ||| Старый вариант: канал для событий сервера
+Legacy: Channel for user events ||| Старый вариант: канал для событий пользователей
+Legacy: Channel for voice events ||| Старый вариант: канал для голосовых событий
+Link punishment ||| Наказание за ссылки
+Listening to {0} ||| Слушает {0}
+Locked {0}. New users cannot join. ||| {0} заблокирован. Новые пользователи не смогут присоединиться.
+Logging ||| Логирование
+Logging is already set up for this server.\nUse **logging config** to view or **logging reset** to start over. ||| Логирование для этого сервера уже настроено.\nИспользуйте **logging config** для просмотра или **logging reset**, чтобы начать заново.
+Logs ||| Логи
+LTC API unavailable ||| API LTC недоступен
+Made {0} private. The channel is now hidden. ||| {0} стал приватным. Теперь канал скрыт.
+Made {0} public. The channel is now visible. ||| {0} стал публичным. Теперь канал виден всем.
+Manage Channels ||| Управлять каналами
+Manage Emojis and Stickers ||| Управлять смайлами и стикерами
+Manage Events ||| Управлять мероприятиями
+Manage Expressions ||| Управлять выражениями
+Manage Messages ||| Управлять сообщениями
+Manage Nicknames ||| Управлять никами
+Manage Roles ||| Управлять ролями
+Manage Server ||| Управлять сервером
+Manage Threads ||| Управлять ветками
+Manage Webhooks ||| Управлять вебхуками
+Mass {0} detected ({1} actions) ||| Обнаружено массовое {0} ({1} действий)
+Mass mention ({0} mentions) ||| Массовые упоминания ({0} упоминаний)
+Mass mention punishment ||| Наказание за массовые упоминания
+Master toggle for farewell messages ||| Главный переключатель сообщений прощания
+Master toggle for logging ||| Главный переключатель логирования
+Master toggle for welcome messages ||| Главный переключатель приветственных сообщений
+Max mentions per message ||| Максимум упоминаний в сообщении
+Max percentage of caps allowed ||| Максимальный процент заглавных букв
+Maximum gay achieved! ||| Достигнут максимум «гейности»!
+Media ||| Медиа
+Media Channel Remove ||| Удаление медиаканала

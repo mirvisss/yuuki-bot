@@ -1,0 +1,113 @@
+Member Count: {0} ||| Участников: {0}
+Member join/leave/update logs ||| Логи входов, выходов и изменений участников
+Member Left ||| Участник вышел
+Members Without Roles ||| Участники без ролей
+Members: {0} ||| Участников: {0}
+Mention Everyone ||| Упоминание @everyone
+Mentions: {0} max ||| Упоминаний: максимум {0}
+Message delete/edit/bulk delete logs ||| Логи удаления, изменения и массового удаления сообщений
+Message is too long. Maximum 500 characters allowed. ||| Сообщение слишком длинное. Максимум 500 символов.
+Messages per interval ||| Сообщений за интервал
+Messages will auto-delete after 1 minute ||| Сообщения удалятся автоматически через 1 минуту
+MFA Level: {0} ||| Уровень MFA: {0}
+Min message length to check caps ||| Минимальная длина сообщения для проверки заглавных букв
+Misc ||| Разное
+Missing Channel ||| Канал не указан
+Missing permissions ||| Недостаточно прав
+Missing permissions to rename. ||| Недостаточно прав для переименования.
+Missing User ID ||| Не указан ID пользователя
+Moderation ||| Модерация
+Moderator ID: {0} ||| ID модератора: {0}
+Moderator User ID (bot for automod) ||| ID пользователя-модератора (бот для automod)
+Moderator username#discriminator ||| Имя модератора#дискриминатор
+Monitor channel creation ||| Отслеживать создание каналов
+Monitor channel deletion ||| Отслеживать удаление каналов
+Monitor channel modifications ||| Отслеживать изменения каналов
+Monitor dangerous role updates ||| Отслеживать опасные изменения ролей
+Monitor emoji creation/deletion ||| Отслеживать создание и удаление смайлов
+Monitor mass bans ||| Отслеживать массовые баны
+Monitor mass kicks ||| Отслеживать массовые кики
+Monitor role creation ||| Отслеживать создание ролей
+Monitor role deletion ||| Отслеживать удаление ролей
+Monitor server setting changes ||| Отслеживать изменения настроек сервера
+Monitor unauthorized bot additions ||| Отслеживать добавление неразрешённых ботов
+Monitor webhook creation ||| Отслеживать создание вебхуков
+Move Members ||| Перемещать участников
+Moved {0} to {1}. ||| {0} перемещён в {1}.
+Must have at least 1 winner! ||| Должен быть хотя бы 1 победитель!
+Mute duration in seconds ||| Длительность мута в секундах
+Mute Members ||| Заглушать участников
+Name of the playlist. ||| Название плейлиста.
+Nickname changed by {0} ||| Ник изменён пользователем {0}
+Nickname: {0} ||| Ник: {0}
+No articles available at the moment. ||| Сейчас статьи недоступны.
+No articles found for: {0} ||| Статьи не найдены по запросу: {0}
+No categories to remove. ||| Нет категорий для удаления.
+No Category (Root Level) ||| Без категории (верхний уровень)
+No channels were configured. ||| Каналы не настроены.
+No content available ||| Содержимое недоступно
+No custom emojis found. {0} ||| Кастомные смайлы не найдены. {0}
+No data available for this page. ||| Для этой страницы данных нет.
+No Entries ||| Записей нет
+No entries. ||| Записей нет.
+No farewell configuration found.\nUse `farewell setup` to configure farewell messages. ||| Настройка прощания не найдена.\nИспользуйте `farewell setup`, чтобы настроить прощальные сообщения.
+No messages matched the criteria. ||| Нет сообщений, подходящих под условия.
+No Participants Yet ||| Участников пока нет
+No reason provided ||| Причина не указана
+No Slowmode Active ||| Слоумод не включён
+No text channels the bot can view and send messages in ||| Нет текстовых каналов, где бот может читать и писать
+No text content ||| Нет текстового содержимого
+No ticket categories found. Please run setup again. ||| Категории тикетов не найдены. Запустите настройку заново.
+No Title ||| Без заголовка
+No Users to Deafen ||| Нет пользователей для заглушения
+No Users to Mute ||| Нет пользователей для мута
+No Users to Undeafen ||| Нет пользователей для снятия заглушения
+No Users to Unmute ||| Нет пользователей для снятия мута
+No valid `Label | URL` lines were provided. ||| Не передано ни одной строки вида `Название | URL`.
+No warnings found for this server. ||| Предупреждения для этого сервера не найдены.
+No welcome configuration found.\nUse `welcome setup` to configure welcome messages. ||| Настройка приветствия не найдена.\nИспользуйте `welcome setup`, чтобы настроить приветственные сообщения.
+None (Offline) ||| Нет (не в сети)
+Not Deafened ||| Без заглушения
+Not Muted ||| Без мута
+Not set ||| Не задано
+Number of actions before triggering ||| Количество действий до срабатывания
+Number of messages to delete (1-500) ||| Сколько сообщений удалить (1–500)
+Number of messages to dump (1-100) ||| Сколько сообщений выгрузить (1–100)
+Occurred {0} ||| Произошло {0}
+Of course! ||| Конечно!
+Only Mentions ||| Только упоминания
+Only simps a little bit... ||| Немного «симпит»…
+Only support staff can delete tickets. ||| Удалять тикеты может только служба поддержки.
+Only support staff can rename tickets. ||| Переименовывать тикеты может только служба поддержки.
+Only support staff can reopen tickets. ||| Открывать тикеты заново может только служба поддержки.
+Only support staff can transfer tickets. ||| Передавать тикеты может только служба поддержки.
+Only support staff can use this command. ||| Эту команду может использовать только служба поддержки.
+Only the **Server Owner** can disable antinuke. ||| Отключить Antinuke может только **владелец сервера**.
+Only the **Server Owner** can enable antinuke. ||| Включить Antinuke может только **владелец сервера**.
+Only the **Server Owner** can manage the whitelist. ||| Управлять белым списком может только **владелец сервера**.
+Only the **Server Owner** can reset antinuke. ||| Сбросить Antinuke может только **владелец сервера**.
+Only the **Server Owner** can setup antinuke. ||| Настроить Antinuke может только **владелец сервера**.
+Only the **Server Owner** can view antinuke settings. ||| Просматривать настройки Antinuke может только **владелец сервера**.
+Only the bot owner can use this command. ||| Эту команду может использовать только владелец бота.
+Only the current claimant or an administrator can transfer this ticket. ||| Передать этот тикет может только его текущий исполнитель или администратор.
+Owner Commands ||| Команды владельца
+Owner: {0} ||| Владелец: {0}
+Page {0}/{1} · {2} errors | {3} ||| Страница {0}/{1} · ошибок: {2} | {3}
+Panel channel not found. Please reconfigure. ||| Канал панели не найден. Настройте заново.
+Password cannot be longer than 128 characters ||| Пароль не может быть длиннее 128 символов
+Password must be a string ||| Пароль должен быть строкой
+Password must be at least 8 characters long ||| Пароль должен быть не короче 8 символов
+Permission Overwrites: ||| Переопределения прав:
+Permissions: {0} ||| Права: {0}
+Pick a log category below to assign a channel. ||| Выберите категорию логов ниже, чтобы назначить канал.
+Ping (@everyone / @here) ||| Пинг (@everyone / @here)
+Ping (@everyone/@here) punishment ||| Наказание за пинг (@everyone/@here)
+Pinging... ||| Измеряю пинг…
+Pinned messages are always skipped. ||| Закреплённые сообщения всегда пропускаются.
+Playing {0} ||| Играет в {0}
+Please mention a channel.\n\n**Usage:** `ignore channel add <#channel>` ||| Упомяните канал.\n\n**Использование:** `ignore channel add <#channel>`
+Please mention a channel.\n\n**Usage:** `ignore channel remove <#channel>` ||| Упомяните канал.\n\n**Использование:** `ignore channel remove <#channel>`
+Please mention a role. ||| Упомяните роль.
+Please mention a user to {0} from the bypass list. ||| Упомяните пользователя, чтобы {0} из списка обхода.
+Please mention a user to ban. ||| Упомяните пользователя, чтобы его забанить.
+Please mention a user to deafen.\n**Usage:** `voice deafen <user>` ||| Упомяните пользователя, чтобы заглушить.\n**Использование:** `voice deafen <user>`

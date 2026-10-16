@@ -1,0 +1,3 @@
+Select a user to remove from the whitelist: ||| Выберите пользователя, которого удалить из белого списка:
+Select an invite link from the options below to invite me to your server. ||| Выберите ссылку-приглашение ниже, чтобы добавить меня на ваш сервер.
+Select a member to disconnect from your voice channel: ||| Выберите участника, которого отключить от вашего голосового канала:

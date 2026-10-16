@@ -1,0 +1,11 @@
+Use these placeholders in your farewell message: ||| Эти подстановки можно использовать в прощальном сообщении:
+Use these placeholders in your welcome message: ||| Эти подстановки можно использовать в приветственном сообщении:
+Mentions the user (e.g., @UserName). ||| Упоминает пользователя (например, @Имя).
+The user's avatar URL. ||| Ссылка на аватар пользователя.
+The user's username. ||| Имя пользователя.
+The user's nickname in the server. ||| Ник пользователя на сервере.
+The user's join date in the server (formatted as Day, Month Day, Year). ||| Дата входа пользователя на сервер (в формате «день, месяц, число, год»).
+The user's account creation date (formatted as Day, Month Day, Year). ||| Дата создания аккаунта пользователя (в формате «день, месяц, число, год»).
+The server's name. ||| Название сервера.
+The server's total member count. ||| Общее число участников сервера.
+The server's icon URL. ||| Ссылка на иконку сервера.

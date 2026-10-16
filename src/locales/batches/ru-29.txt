@@ -1,0 +1,124 @@
+Media Channel Removed ||| Медиаканал удалён
+Please mention a user to kick from voice.\n**Usage:** `voice kick <user>` ||| Упомяните пользователя, чтобы отключить его от голосового канала.\n**Использование:** `voice kick <user>`
+Please mention a user to kick. ||| Упомяните пользователя, чтобы его исключить.
+Please mention a user to mute.\n**Usage:** `voice mute <user>` ||| Упомяните пользователя, чтобы его заглушить.\n**Использование:** `voice mute <user>`
+Please mention a user to pull.\n**Usage:** `voice pull <user>` ||| Упомяните пользователя, чтобы переместить его к себе.\n**Использование:** `voice pull <user>`
+Please mention a user to softban. ||| Упомяните пользователя для софтбана.
+Please mention a user to tempban. ||| Упомяните пользователя для временного бана.
+Please mention a user to undeafen.\n**Usage:** `voice undeafen <user>` ||| Упомяните пользователя, чтобы снять заглушение.\n**Использование:** `voice undeafen <user>`
+Please mention a user to unmute.\n**Usage:** `voice unmute <user>` ||| Упомяните пользователя, чтобы снять мут.\n**Использование:** `voice unmute <user>`
+Please mention a user.\n\n**Usage:** `ignore bypass add <@user>` ||| Упомяните пользователя.\n\n**Использование:** `ignore bypass add <@user>`
+Please mention a user.\n\n**Usage:** `ignore bypass remove <@user>` ||| Упомяните пользователя.\n\n**Использование:** `ignore bypass remove <@user>`
+Please mention a user.\n\n**Usage:** `ignore user add <@user>` ||| Упомяните пользователя.\n\n**Использование:** `ignore user add <@user>`
+Please mention a user.\n\n**Usage:** `ignore user remove <@user>` ||| Упомяните пользователя.\n\n**Использование:** `ignore user remove <@user>`
+Please mention a user.\n**Usage:** `nick @user [nickname]` ||| Упомяните пользователя.\n**Использование:** `nick @user [nickname]`
+Please provide a command name.\n\n**Usage:** `ignore command add <command>` ||| Укажите название команды.\n\n**Использование:** `ignore command add <command>`
+Please provide a command name.\n\n**Usage:** `ignore command remove <command>` ||| Укажите название команды.\n\n**Использование:** `ignore command remove <command>`
+Please provide a join position number. ||| Укажите номер позиции входа.
+Please provide a message ID. Usage: `.rr remove <message_id>` ||| Укажите ID сообщения. Использование: `.rr remove <message_id>`
+Please provide a prefix.\n\n**Usage:** `prefix <new_prefix>` ||| Укажите префикс.\n\n**Использование:** `prefix <new_prefix>`
+Please provide a subcommand. Available: `boosters`, `inrole`, `roles`, `emojis`, `bots`, `admins`, `invoice`, `mods`, `early`, `createpos` ||| Укажите подкоманду. Доступно: `boosters`, `inrole`, `roles`, `emojis`, `bots`, `admins`, `invoice`, `mods`, `early`, `createpos`
+Please provide a time and a message.\n**Usage:** `remind <time> <message>`\n**Example:** `remind 30m Submit the report` ||| Укажите время и сообщение.\n**Использование:** `remind <время> <сообщение>`\n**Пример:** `remind 30m Сдать отчёт`
+Please provide a user and destination channel.\n**Usage:** `voice move <user> <channel>` ||| Укажите пользователя и целевой канал.\n**Использование:** `voice move <user> <channel>`
+Please provide a valid image URL or mention a user!\nUsage: `matrix <image_url>` or `matrix @user` ||| Укажите ссылку на изображение или упомяните пользователя!\nИспользование: `matrix <image_url>` или `matrix @user`
+Please provide a valid position number. ||| Укажите корректный номер позиции.
+Please provide a word to define!\nUsage: `define <word>` ||| Укажите слово для определения!\nИспользование: `define <word>`
+Please provide an emoji. ||| Укажите смайл.
+Please provide source and destination channels.\n**Usage:** `voice moveall <from> <to>` ||| Укажите исходный и целевой каналы.\n**Использование:** `voice moveall <from> <to>`
+Please provide the user ID to unban. ||| Укажите ID пользователя для разбана.
+Please select a channel to set as media-only. ||| Выберите канал, который нужно сделать только для медиа.
+Please specify a new name.\n**Usage:** `ticket rename <new-name>` ||| Укажите новое имя.\n**Использование:** `ticket rename <новое-имя>`
+Please specify a role to add.\n**Usage:** `ticket addrole <@role>` ||| Укажите роль для добавления.\n**Использование:** `ticket addrole <@role>`
+Please specify a role to remove.\n**Usage:** `ticket removerole <@role>` ||| Укажите роль для удаления.\n**Использование:** `ticket removerole <@role>`
+Please specify a source channel.\n**Usage:** `voice pullall <channel>` ||| Укажите исходный канал.\n**Использование:** `voice pullall <channel>`
+Please specify a staff member to transfer to.\n**Usage:** `ticket transfer <user>` ||| Укажите сотрудника поддержки, которому передать тикет.\n**Использование:** `ticket transfer <user>`
+Please specify a user to add.\n**Usage:** `ticket add <user>` ||| Укажите пользователя для добавления.\n**Использование:** `ticket add <user>`
+Please specify a user to remove.\n**Usage:** `ticket remove <user>` ||| Укажите пользователя для удаления.\n**Использование:** `ticket remove <user>`
+Please specify a valid destination voice channel. ||| Укажите корректный целевой голосовой канал.
+Please specify a valid source voice channel. ||| Укажите корректный исходный голосовой канал.
+Please use a static image format: **PNG**, **JPG**, or **WebP** ||| Используйте статичный формат изображения: **PNG**, **JPG** или **WebP**
+Please use format: `1s`, `1m`, `1h`, or `1d` ||| Используйте формат: `1s`, `1m`, `1h` или `1d`
+Please wait 1s before sending another AI message. ||| Подождите 1 секунду перед следующим сообщением к ИИ.
+Poll ||| Опрос
+Position: {0} ||| Позиция: {0}
+Possible reasons: ||| Возможные причины:
+Posting 1 image every minute ||| Публикую 1 изображение в минуту
+Pounds to Kilograms ||| Фунты в килограммы
+Powered by Imagen 4.0 Ultra ||| Работает на Imagen 4.0 Ultra
+Preferred Locale: {0} ||| Предпочитаемый язык: {0}
+Prefix Logs ||| Логи префиксных команд
+Prefix must be 5 characters or less! ||| Префикс должен быть не длиннее 5 символов!
+Pretty smart actually... ||| Вообще-то довольно умно…
+Prev ||| Назад
+Preview shown above ||| Предпросмотр показан выше
+Pride parade organizer ||| Организатор прайд-парада
+Priority Speaker ||| Приоритетный режим
+Private Thread ||| Приватная ветка
+Professional simp certified ||| Сертифицированный профессиональный «симп»
+Profiles ||| Профили
+Provide a valid duration in seconds (0-21600). ||| Укажите корректную длительность в секундах (0–21600).
+Provide custom emojis in your message or reply to one that has them. ||| Добавьте кастомные смайлы в сообщение или ответьте на сообщение с ними.
+Public Thread ||| Публичная ветка
+Pulled {0} to {1}. ||| {0} перемещён к {1}.
+Punishment: delete, warn, mute, kick, ban ||| Наказание: delete, warn, mute, kick, ban
+Punishment: stripall, kick, ban ||| Наказание: stripall, kick, ban
+Purge ||| Очистка
+Rainbow flag unlocked ||| Радужный флаг разблокирован
+Ram Usage ||| Использование ОЗУ
+Random {0} ||| Случайный {0}
+Rate limit exceeded. Try again later. ||| Превышен лимит запросов. Попробуйте позже.
+Rate limit reached. Please wait before renaming again. ||| Достигнут лимит запросов. Подождите перед следующим переименованием.
+Rate limited ||| Лимит запросов
+Rate our service (1-5) ||| Оцените наш сервис (1–5)
+Rating must be a number between 1 and 5! ||| Оценка должна быть числом от 1 до 5!
+React to get a role! ||| Поставьте реакцию, чтобы получить роль!
+Reaction roles are now active! Users can react to get roles. ||| Роли по реакциям включены! Пользователи могут получать роли, ставя реакцию.
+Reaction Roles Setup - Step 1 ||| Настройка ролей по реакциям — шаг 1
+Reaction Roles Setup - Step 3 ||| Настройка ролей по реакциям — шаг 3
+Read Message History ||| Читать историю сообщений
+Reason for the action ||| Причина действия
+Received {0} ||| Получено {0}
+Reloaded {0} slash commands, {1} prefix commands, and {2} hybrid commands ||| Перезагружено: slash-команд — {0}, префиксных — {1}, гибридных — {2}
+Reminder cannot be more than **30 days** from now. ||| Напоминание не может быть позже чем через **30 дней**.
+Reminder Ended ||| Напоминание завершено
+Reminder must be at least **10 seconds** from now. ||| Напоминание должно быть не раньше чем через **10 секунд**.
+Remove {0}'s Whitelist ||| Удалить белый список {0}
+Removed {0} from the no-prefix list. ||| {0} удалён из списка без префикса.
+Reopened by {0} ||| Открыт заново пользователем {0}
+Request to Speak ||| Запрос на выступление
+Reroll Complete ||| Перевыбор завершён
+Review channel: {0} ||| Канал отзывов: {0}
+Review your settings and confirm to post the message. ||| Проверьте настройки и подтвердите отправку сообщения.
+Role {0} has been added to the whitelist. ||| Роль {0} добавлена в белый список.
+Role {0} is already whitelisted. ||| Роль {0} уже в белом списке.
+Role {0} not found! ||| Роль {0} не найдена!
+Roleplay ||| Ролевые команды
+Roles Stripped ||| Роли сняты
+Roles: {0} ||| Роли: {0}
+Run `/antinuke setup` first to configure antinuke. ||| Сначала выполните `/antinuke setup`, чтобы настроить Antinuke.
+Run `/antinuke setup` to configure antinuke for this server. ||| Выполните `/antinuke setup`, чтобы настроить Antinuke для этого сервера.
+Run `/automod setup` first to configure automod. ||| Сначала выполните `/automod setup`, чтобы настроить AutoMod.
+Run `/automod setup` to configure automod for this server. ||| Выполните `/automod setup`, чтобы настроить AutoMod для этого сервера.
+Run `/vanityroles setup` to get started ||| Выполните `/vanityroles setup`, чтобы начать
+Select a category to create a support ticket ||| Выберите категорию, чтобы создать тикет поддержки
+Select a channel to assign: ||| Выберите канал для назначения:
+Select a log channel below: ||| Выберите канал логов ниже:
+Select a log type to configure ||| Выберите тип логов для настройки
+Select an option... ||| Выберите вариант…
+Select the **text channel** where the control panel will be posted: ||| Выберите **текстовый канал**, куда отправить панель управления:
+Select... ||| Выбрать…
+Send ||| Отправить
+Send Messages ||| Отправлять сообщения
+Send Messages in Threads ||| Отправлять сообщения в ветках
+Send Polls ||| Создавать опросы
+Send TTS Messages ||| Отправлять TTS-сообщения
+Send Voice Messages ||| Отправлять голосовые сообщения
+Sent at: {0} ||| Отправлено: {0}
+Sent to {0} ({1}) ||| Отправлено пользователю {0} ({1})
+Separator ||| Разделитель
+Server emoji limit reached ||| Достигнут лимит смайлов сервера
+Server ID: {0} ||| ID сервера: {0}
+Server name contains invalid characters ||| Имя сервера содержит недопустимые символы
+Server name must be a string ||| Имя сервера должно быть строкой
+Server name must be between 1 and 255 characters ||| Имя сервера должно быть от 1 до 255 символов
+Server Name: {0} ||| Имя сервера: {0}

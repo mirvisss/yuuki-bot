@@ -1,0 +1,133 @@
+Session expired. Please run `/automod setup` again. ||| Сессия истекла. Запустите `/automod setup` заново.
+Slash Logs ||| Логи slash-команд
+Slowmode duration in seconds (0 to disable) ||| Длительность слоумода в секундах (0 — отключить)
+Slowmode Updated ||| Слоумод обновлён
+Slowmode: {0} seconds ||| Слоумод: {0} секунд
+Social ||| Соцсети
+Softban - Auto unban ||| Софтбан — авторазбан
+Source: {0} ||| Источник: {0}
+Source: automod, manual, antinuke ||| Источник: automod, manual, antinuke
+Spam detected ({0} messages in 1s) ||| Обнаружен спам ({0} сообщений за 1 секунду)
+Spam punishment: delete, warn, mute, kick, ban ||| Наказание за спам: delete, warn, mute, kick, ban
+Spam: {0} msgs / 1s ||| Спам: {0} сообщений за 1 секунду
+Staff ||| Персонал
+Stage Channel ||| Сценический канал
+Step 1: Panel Channel ||| Шаг 1: канал панели
+Step 2: Support Role ||| Шаг 2: роль поддержки
+Step 3: Ticket Category ||| Шаг 3: категория тикетов
+Streaming {0} ||| Стримит {0}
+Strong and independent ||| Сильный и независимый
+Successfully deafened {0} in voice. ||| {0} заглушен в голосовом канале.
+Successfully kicked {0} from voice. ||| {0} отключён от голосового канала.
+Successfully muted {0} in voice. ||| {0} получил мут в голосовом канале.
+Successfully undeafened {0} in voice. ||| С {0} снято заглушение в голосовом канале.
+Successfully unmuted {0} in voice. ||| С {0} снят мут в голосовом канале.
+Sucks to be you bozo ||| Не повезло тебе, чувак
+Support Role Added ||| Роль поддержки добавлена
+Support Role Removed ||| Роль поддержки удалена
+Support Tickets ||| Тикеты поддержки
+System Info ||| Информация о системе
+Target Channel: {0} ||| Целевой канал: {0}
+Target Channel: not set ||| Целевой канал: не задан
+Target User ID ||| ID целевого пользователя
+Target username#discriminator ||| Имя целевого пользователя#дискриминатор
+Tempban expired ||| Временный бан истёк
+Temporary role expired ||| Временная роль истекла
+Temporary VC is empty ||| Временный голосовой канал пуст
+Text Channel ||| Текстовый канал
+Text Channels: {0} ||| Текстовых каналов: {0}
+That user is already server deafened. ||| У этого пользователя уже включено заглушение.
+That user is already server muted. ||| У этого пользователя уже включён мут.
+That user is not server deafened. ||| У этого пользователя не включено заглушение.
+That user is not server muted. ||| У этого пользователя не включён мут.
+The binary value (e.g., 1010) ||| Двоичное значение (например, 1010)
+The bypass list can only hold up to 25 users. ||| Список обхода может содержать не более 25 пользователей.
+The control panel has been posted. Users can now join the trigger voice channel to create temporary VCs! ||| Панель управления отправлена. Теперь пользователи могут заходить в канал-триггер, чтобы создавать временные голосовые каналы!
+The dumbest person to ever exist... beyond measurement! ||| Самый глупый человек в истории… вне всяких измерений!
+The farewell message has not been configured yet.\n\nUse `farewell setup` to set a message. ||| Прощальное сообщение ещё не настроено.\n\nИспользуйте `farewell setup`, чтобы задать текст.
+The new name is the same as the current name. ||| Новое имя совпадает с текущим.
+The prefix to set (1-5 characters) ||| Префикс для установки (1–5 символов)
+The specified channel could not be found. ||| Указанный канал не найден.
+The specified role could not be found. ||| Указанная роль не найдена.
+The target user is not a support staff member. ||| Указанный пользователь не входит в службу поддержки.
+The transcript has been sent to the ticket creator and log channel. ||| Транскрипт отправлен автору тикета и в канал логов.
+The welcome message has not been configured yet.\n\nUse `welcome setup` to set a message. ||| Приветственное сообщение ещё не настроено.\n\nИспользуйте `welcome setup`, чтобы задать текст.
+There are no deafened users in that channel. ||| Заглушённых пользователей в этом канале нет.
+There are no muted users in that channel. ||| Пользователей с мутом в этом канале нет.
+There are no undeafened users in that channel. ||| Пользователей без заглушения в этом канале нет.
+There are no unmuted users in that channel. ||| Пользователей без мута в этом канале нет.
+There are no users in that channel to pull. ||| В этом канале нет пользователей, которых можно переместить к себе.
+There are no users in that voice channel. ||| В этом голосовом канале нет пользователей.
+There are no users in the source channel. ||| В исходном канале нет пользователей.
+There is no farewell configuration set up for this server.\n\nUse `farewell setup` to configure farewell messages. ||| Прощальные сообщения для этого сервера не настроены.\n\nИспользуйте `farewell setup`, чтобы настроить их.
+There is no welcome configuration set up for this server.\n\nUse `welcome setup` to configure welcome messages. ||| Приветственные сообщения для этого сервера не настроены.\n\nИспользуйте `welcome setup`, чтобы настроить их.
+There was an error processing this action! ||| При выполнении действия произошла ошибка!
+This action cannot be undone! ||| Это действие нельзя отменить!
+This channel does not have slowmode enabled. Provide a duration in seconds to enable it. ||| В этом канале слоумод выключен. Укажите длительность в секундах, чтобы включить его.
+This channel is not a valid ticket. ||| Этот канал не является тикетом.
+This channel will be deleted in 5 seconds... ||| Этот канал будет удалён через 5 секунд…
+This role cannot be used as a support role. ||| Эту роль нельзя использовать как роль поддержки.
+This ticket channel will be deleted in 5 seconds... ||| Этот канал тикета будет удалён через 5 секунд…
+This ticket has already been claimed by {0}. ||| Этот тикет уже взял пользователь {0}.
+This ticket has been claimed by {0}. ||| Этот тикет взял пользователь {0}.
+This ticket has been deleted and cannot be claimed. ||| Этот тикет удалён, его нельзя взять.
+This ticket has been renamed to {0} ||| Этот тикет переименован в {0}
+This ticket has been reopened by {0}. ||| Этот тикет заново открыт пользователем {0}.
+This ticket has been transferred from {0} to {1}. ||| Этот тикет передан от {0} к {1}.
+This ticket has not been claimed yet. Use `ticket claim` first. ||| Этот тикет ещё никто не взял. Сначала выполните `ticket claim`.
+This ticket is already {0}. ||| Этот тикет уже {0}.
+This ticket is already claimed by that user. ||| Этот тикет уже взят этим пользователем.
+This ticket is already closed. ||| Этот тикет уже закрыт.
+This ticket is closed. Please reopen it before claiming. ||| Тикет закрыт. Откройте его заново, прежде чем брать.
+This URL appears to be Rick Roll free! ||| Похоже, эта ссылка не ведёт на рикролл!
+This will delete all ticket configuration, categories, and support role assignments for this server.\n> **Warning:** Existing ticket channels will not be deleted, but the system will stop functioning until you run setup again. ||| Это удалит всю настройку тикетов, категории и назначенные роли поддержки для этого сервера.\n> **Внимание:** существующие каналы тикетов не будут удалены, но система перестанет работать, пока вы не запустите настройку заново.
+Thresholds: ||| Пороги:
+Ticket ||| Тикет
+Ticket channel {0} has been deleted. ||| Канал тикета {0} удалён.
+Ticket Created ||| Тикет создан
+Ticket panel sent successfully. ||| Панель тикетов успешно отправлена.
+Ticket Renamed ||| Тикет переименован
+Ticket renamed by {0} ||| Тикет переименован пользователем {0}
+Ticket system is already configured. Use `ticket reset` first to clear the current configuration before running setup again. ||| Система тикетов уже настроена. Сначала выполните `ticket reset`, чтобы сбросить текущую настройку, и только потом запускайте настройку снова.
+Ticket system is not configured. Nothing to reset. ||| Система тикетов не настроена. Сбрасывать нечего.
+Ticket Transferred ||| Тикет передан
+Tickets ||| Тикеты
+TICKETS ||| ТИКЕТЫ
+Tiktok ||| TikTok
+Time window in seconds ||| Временное окно в секундах
+Timeframe in seconds ||| Промежуток времени в секундах
+Timeout Members ||| Отправлять в тайм-аут участников
+Today at {0} {1} ||| Сегодня в {0} {1}
+Total Bans: {0} ||| Всего банов: {0}
+Total Channels: {0} ||| Всего каналов: {0}
+Total Emojis: {0} ||| Всего смайлов: {0}
+Total Messages Deleted: {0} ||| Всего удалено сообщений: {0}
+Total Roles: {0} ||| Всего ролей: {0}
+Total Warnings: {0} ||| Всего предупреждений: {0}
+Tracking ||| Отслеживание
+Transcript Sent ||| Транскрипт отправлен
+Try a different search term. ||| Попробуйте другой поисковый запрос.
+Try different search terms. ||| Попробуйте другие поисковые запросы.
+Twitter ||| Twitter
+Ultimate simp lord detected ||| Обнаружен симп высшего уровня
+Unauthorized bot addition ||| Добавлен неразрешённый бот
+Uncaught Exception ||| Неперехваченное исключение
+Unhandled Rejection ||| Необработанный отказ промиса
+Unique code for sharing this playlist. ||| Уникальный код для обмена плейлистом.
+Unknown ({0}) ||| Неизвестно ({0})
+Unknown Channel ||| Неизвестный канал
+Unknown error ||| Неизвестная ошибка
+Unknown error occurred ||| Произошла неизвестная ошибка
+Unknown format ||| Неизвестный формат
+Unknown User ||| Неизвестный пользователь
+Unlocked {0}. Users can now join. ||| {0} разблокирован. Теперь пользователи могут присоединяться.
+Up to 10 image/video URLs in a gallery. ||| До 10 ссылок на изображения или видео в галерее.
+Up to 5 link buttons in a row. ||| До 5 ссылочных кнопок в ряду.
+upload failed: {0} ||| не удалось загрузить: {0}
+uploaded — new ID: {0} ||| загружено — новый ID: {0}
+URL: {0} ||| Ссылка: {0}
+Usage: `autoreact add <word> <emoji>` ||| Использование: `autoreact add <слово> <смайл>`
+Usage: `autoreact remove <word>` ||| Использование: `autoreact remove <слово>`
+Usage: `blacklist guild add <id>` ||| Использование: `blacklist guild add <id>`
+Usage: `blacklist guild remove <id>` ||| Использование: `blacklist guild remove <id>`
+Usage: `blacklist user add <id>` ||| Использование: `blacklist user add <id>`

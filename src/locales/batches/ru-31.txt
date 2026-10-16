@@ -1,0 +1,121 @@
+Total Messages Fetched: {1} ||| Всего получено сообщений: {1}
+Trigger channel: {1} ||| Канал-триггер: {1}
+Usage: `blacklist user remove <id>` ||| Использование: `blacklist user remove <id>`
+Usage: `google <search query>` ||| Использование: `google <поисковый запрос>`
+Usage: `gstart <time> <winners> <prize>`\nExample: `gstart 1h 2 Discord Nitro` ||| Использование: `gstart <время> <победители> <приз>`\nПример: `gstart 1h 2 Discord Nitro`
+Usage: `media bypass <add|remove|show> [@user]` ||| Использование: `media bypass <add|remove|show> [@user]`
+Usage: `youtube <search query>` ||| Использование: `youtube <поисковый запрос>`
+Use `antinuke settings` to modify or `antinuke disable` to reset. ||| Используйте `antinuke settings` для изменения или `antinuke disable` для сброса.
+Use `antinuke whitelist list` for detailed view. ||| Используйте `antinuke whitelist list` для подробного просмотра.
+Use `autobump config` to modify or `autobump disable` to reset. ||| Используйте `autobump config` для изменения или `autobump disable` для сброса.
+Use `crypto` for help. ||| Используйте `crypto` для справки.
+Use `farewell config` to modify or `farewell reset` to start over. ||| Используйте `farewell config` для изменения или `farewell reset`, чтобы начать заново.
+Use `j2c config` to modify or `j2c reset` to start over. ||| Используйте `j2c config` для изменения или `j2c reset`, чтобы начать заново.
+Use `ticket addcategory` to add ticket categories, then `ticket panel` to send the panel. ||| Используйте `ticket addcategory`, чтобы добавить категории тикетов, затем `ticket panel`, чтобы отправить панель.
+Use `vanity config` to modify or `vanity reset` to start over. ||| Используйте `vanity config` для изменения или `vanity reset`, чтобы начать заново.
+Use `welcome config` to modify or `welcome reset` to start over. ||| Используйте `welcome config` для изменения или `welcome reset`, чтобы начать заново.
+Use Activities ||| Использовать активности
+Use Application Commands ||| Использовать команды приложений
+Use External Emojis ||| Использовать внешние смайлы
+Use External Sounds ||| Использовать внешние звуки
+Use External Stickers ||| Использовать внешние стикеры
+Use Soundboard ||| Использовать звуковую панель
+Use Voice Activity ||| Использовать голосовую активность
+User Added ||| Пользователь добавлен
+User Added to Bypass ||| Пользователь добавлен в обход
+User Added to Ticket ||| Пользователь добавлен в тикет
+User Already Bypassed ||| Пользователь уже в обходе
+User ID: {0} ||| ID пользователя: {0}
+User is not blacklisted ||| Пользователь не в чёрном списке
+User limit decreased to {0} ||| Лимит пользователей уменьшен до {0}
+User limit to set (0-99) ||| Лимит пользователей для установки (0–99)
+User not found in the no-prefix list. ||| Пользователь не найден в списке без префикса.
+User not found. Please mention a user or provide a valid user ID. ||| Пользователь не найден. Упомяните пользователя или укажите корректный ID.
+User Not in Bypass List ||| Пользователя нет в списке обхода
+User Not in Voice ||| Пользователь не в голосовом канале
+User Removed ||| Пользователь удалён
+User Removed from Bypass ||| Пользователь удалён из обхода
+User Removed from Ticket ||| Пользователь удалён из тикета
+User Warned ||| Пользователь предупреждён
+user, role, or channel ||| пользователь, роль или канал
+User/Role/Channel ID ||| ID пользователя, роли или канала
+Username can only contain letters, numbers, underscores, and hyphens ||| Имя пользователя может содержать только буквы, цифры, подчёркивания и дефисы
+Username must be a string ||| Имя пользователя должно быть строкой
+Username must be between 3 and 20 characters ||| Имя пользователя должно быть от 3 до 20 символов
+Utility ||| Утилиты
+Vanity code detected in status ||| В статусе найден vanity-код
+Vanity code no longer in status ||| Vanity-код больше не в статусе
+Vanity Roles ||| Vanity-роли
+Verification Level: {0} ||| Уровень проверки: {0}
+Very High ||| Очень высокий
+View Audit Log ||| Просматривать журнал аудита
+View Channel ||| Просматривать канал
+View Channels ||| Просматривать каналы
+View Creator Analytics ||| Просматривать аналитику автора
+View Server Insights ||| Просматривать статистику сервера
+Voice ||| Голос
+Voice Channel ||| Голосовой канал
+Voice Channels: {0} ||| Голосовых каналов: {0}
+Voice Deafen ||| Заглушить в голосе
+Voice Deafen All ||| Заглушить всех в голосе
+Voice join/leave/switch/mute logs ||| Логи входа, выхода, перехода и мута в голосовых каналах
+Voice Kick ||| Отключить от голоса
+Voice Kick All ||| Отключить всех от голоса
+Voice Lock ||| Заблокировать голосовой канал
+Voice Move ||| Переместить в голосе
+Voice Move All ||| Переместить всех в голосе
+Voice Mute ||| Мут в голосе
+Voice Mute All ||| Замутить всех в голосе
+Voice Private ||| Сделать голосовой канал приватным
+Voice Pull ||| Переместить в голосе к себе
+Voice Pull All ||| Переместить всех в голосе к себе
+Voice Undeafen ||| Снять заглушение в голосе
+Voice Undeafen All ||| Снять заглушение со всех
+Voice Unlock ||| Разблокировать голосовой канал
+Voice Unmute ||| Снять мут в голосе
+Voice Unmute All ||| Снять мут со всех
+Voice Unprivate ||| Сделать голосовой канал публичным
+Voicemaster Interface ||| Интерфейс Voicemaster
+Warn ID: {0} ||| ID предупреждения: {0}
+Warn User ||| Предупредить пользователя
+Watching {0} ||| Смотрит {0}
+Welcome message channel ID ||| ID канала приветственных сообщений
+Welcome message content (for simple type) ||| Текст приветственного сообщения (для простого типа)
+Welcome messages are now active! ||| Приветственные сообщения включены!
+Welcome to {0}! ||| Добро пожаловать на {0}!
+Welcome type: simple or container ||| Тип приветствия: simple или container
+Whether antinuke is enabled ||| Включён ли Antinuke
+Whether automod is enabled ||| Включён ли AutoMod
+Whether AutoReact is enabled ||| Включён ли AutoReact
+Whitelisted User ID ||| ID пользователя в белом списке
+Who added this user ||| Кто добавил этого пользователя
+Word filter ||| Фильтр слов
+Would donate their life savings ||| Отдал бы все свои сбережения
+XRP API unavailable ||| API XRP недоступен
+You can only set 3 social links. ||| Можно указать только 3 соцсети.
+You can report any issues at my {0}. ||| О любых проблемах можно сообщить здесь: {0}.
+You cannot change the nickname of someone with an equal or higher role than yours. ||| Нельзя изменить ник тому, у кого роль равна вашей или выше.
+You cannot remove the ticket creator. ||| Нельзя удалить автора тикета.
+You don't have permission to add users to this ticket. ||| У вас нет прав добавлять пользователей в этот тикет.
+You don't have permission to claim tickets. ||| У вас нет прав брать тикеты.
+You don't have permission to close this ticket. ||| У вас нет прав закрывать этот тикет.
+You don't have permission to remove users from this ticket. ||| У вас нет прав удалять пользователей из этого тикета.
+You have 3 open tickets already. Close some first. ||| У вас уже 3 открытых тикета. Сначала закройте часть.
+You need **Administrator** permission. ||| Нужно право **Администратор**.
+You need **Manage Guild** permission to use this command. ||| Для этой команды нужно право **Управлять сервером**.
+You need **Manage Messages** permission to use this command. ||| Для этой команды нужно право **Управлять сообщениями**.
+You need **Manage Server** or **Administrator** permission to use this command. ||| Для этой команды нужно право **Управлять сервером** или **Администратор**.
+You need **Manage Server** permission to configure automod. ||| Чтобы настроить AutoMod, нужно право **Управлять сервером**.
+You need **Manage Server** permission to disable automod. ||| Чтобы отключить AutoMod, нужно право **Управлять сервером**.
+You need **Manage Server** permission to enable automod. ||| Чтобы включить AutoMod, нужно право **Управлять сервером**.
+You need **Manage Server** permission to manage the whitelist. ||| Чтобы управлять белым списком, нужно право **Управлять сервером**.
+You need **Manage Server** permission to reset automod. ||| Чтобы сбросить AutoMod, нужно право **Управлять сервером**.
+You need **Manage Server** permission to setup automod. ||| Чтобы настроить AutoMod, нужно право **Управлять сервером**.
+You need **Manage Server** permission to view automod settings. ||| Чтобы просматривать настройки AutoMod, нужно право **Управлять сервером**.
+You need `Manage Server` permission to end giveaways! ||| Чтобы завершать розыгрыши, нужно право `Manage Server`!
+You need `Manage Server` permission to reroll giveaways! ||| Чтобы перевыбирать победителей, нужно право `Manage Server`!
+You need `Manage Server` permission to start giveaways! ||| Чтобы запускать розыгрыши, нужно право `Manage Server`!
+You need the **Manage Nicknames** permission to use this command. ||| Для этой команды нужно право **Управлять никами**.
+Your description is too long. Please keep it under 500 characters. ||| Описание слишком длинное. Уложитесь в 500 символов.
+Your task is too long. Please keep it under 500 characters. ||| Задача слишком длинная. Уложитесь в 500 символов.
+Yuuki is running ||| Yuuki работает
