@@ -1,0 +1,17 @@
+Guild Removed ||| Сервер удалён
+Member Kicked ||| Участник исключён
+Bot Overview ||| Обзор бота
+System Info ||| Информация о системе
+Select a module to see ||| Выберите модуль для просмотра
+Select a category to see ||| Выберите категорию для просмотра
+Return to the main help page ||| Вернуться на главную страницу справки
+Show all available commands ||| Показать все доступные команды
+Category to view (e.g. general, automod, fun) ||| Категория для просмотра (например, general, automod, fun)
+Use `autobump enable` to start ||| Используйте `autobump enable`, чтобы начать
+Gainers ||| Рост
+Losers ||| Падение
+Admin restricted access ||| Доступ только для администрации
+Whitelist ||| Белый список
+Enable ||| Включить
+Disable ||| Отключить
+Page ||| Страница

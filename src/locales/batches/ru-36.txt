@@ -1,0 +1,71 @@
+Removes role when status is cleared ||| Снимает роль, когда статус очищен
+Reset Cancelled ||| Сброс отменён
+Reset Complete {0} ||| Сброс завершён {0}
+Reset Ticket System ||| Сброс системы тикетов
+Reset Timeout ||| Сброс тайм-аута
+Role Created ||| Роль создана
+Role Deleted ||| Роль удалена
+Role Updated ||| Роль изменена
+Select a Platform ||| Выберите платформу
+Send a farewell message in a container format. You can customize the embed with a title, description, image, etc. ||| Отправлять прощальное сообщение в формате контейнера. Можно настроить заголовок, описание, изображение и другое.
+Send a plain text farewell message. You can use placeholders to personalize it. ||| Отправлять прощальное сообщение обычным текстом. Можно использовать подстановки для персонализации.
+Send a plain text welcome message. You can use placeholders to personalize it. ||| Отправлять приветственное сообщение обычным текстом. Можно использовать подстановки для персонализации.
+Send a welcome message in a container format. You can customize the embed with a title, description, image, etc. ||| Отправлять приветственное сообщение в формате контейнера. Можно настроить заголовок, описание, изображение и другое.
+Server Blacklisted ||| Сервер в чёрном списке
+Server Configuration ||| Настройки сервера
+Server Joined ||| Бот добавлен на сервер
+Server Left ||| Бот покинул сервер
+Server Updated ||| Сервер изменён
+Setup Cancelled ||| Настройка отменена
+Setup Cannot Continue ||| Настройку продолжить нельзя
+Setup Error ||| Ошибка настройки
+Slash Command ||| Слэш-команда
+Sticker Created ||| Стикер создан
+Sticker Deleted ||| Стикер удалён
+Subcommand not found ||| Подкоманда не найдена
+Task Too Long ||| Задача слишком длинная
+Text to Speech ||| Озвучивание текста
+The role must not be managed by an app ||| Роль не должна управляться приложением
+This will delete all ticket configuration, categories, and support role assignments for this server. ||| Это удалит всю настройку тикетов, категории и назначенные роли поддержки для этого сервера.
+Ticket System Setup ||| Настройка системы тикетов
+Todo Not Found ||| Задача не найдена
+Top {0} (24h) ||| Топ {0} (за 24 часа)
+Usage: {0} or {1} ||| Использование: {0} или {1}
+Usage: `define <word>` ||| Использование: `define <word>`
+Usage: `gstart <time> <winners> <prize>` ||| Использование: `gstart <время> <победители> <приз>`
+Usage: `matrix <image_url>` or `matrix @user` ||| Использование: `matrix <image_url>` или `matrix @user`
+Use {0} for detailed view. ||| Используйте {0} для подробного просмотра.
+Use {0} to modify • {1} to clear ||| Используйте {0} для изменения • {1} для сброса
+Use **logging config** to view or **logging reset** to start over. ||| Используйте **logging config** для просмотра или **logging reset**, чтобы начать заново.
+Use `/feedback setup` to configure it. ||| Используйте `/feedback setup`, чтобы настроить её.
+Use `farewell setup` to set a message. ||| Используйте `farewell setup`, чтобы задать текст.
+Use `welcome setup` to set a message. ||| Используйте `welcome setup`, чтобы задать текст.
+Use logging config to review • logging reset to clear ||| Используйте logging config для просмотра • logging reset для сброса
+Use logging setup to modify • logging reset to clear ||| Используйте logging setup для изменения • logging reset для сброса
+Used <t:{0}:F> ||| Использовано <t:{0}:F>
+User Blacklisted ||| Пользователь в чёрном списке
+User Not Found ||| Пользователь не найден
+Could not find the specified user ||| Не удалось найти указанного пользователя
+User Updated ||| Пользователь изменён
+Vanity Roles Configuration ||| Настройка vanity-ролей
+Vanity Roles Setup ||| Настройка vanity-ролей
+Grant role when vanity code appears in user status ||| Выдаёт роль, когда vanity-код появляется в статусе пользователя
+Voice Joined ||| Вход в голосовой канал
+Voice Left ||| Выход из голосового канала
+Voice State Updated ||| Состояние голосового канала изменено
+Voice Switched ||| Переход между голосовыми каналами
+Warning: ||| Внимание:
+Welcome Setup ||| Настройка приветствия
+Welcome Setup - Simple ||| Настройка приветствия — простое
+Welcome Setup Cancelled ||| Настройка приветствия отменена
+Welcome to {0} ||| Добро пожаловать на {0}
+You can use {1} or {2} to explore everything I can do!! ||| Используйте {1} или {2}, чтобы узнать всё, что я умею!
+Your ticket in {0} has been closed. ||| Ваш тикет в {0} закрыт.
+Try Again ||| Попробовать снова
+Please try again later. ||| Попробуйте позже.
+Channel ID ||| ID канала
+Configure your embed message: ||| Настройка вашего embed-сообщения:
+No reason ||| Причина не указана
+Page {0} of {1} ||| Страница {0} из {1}
+Owner: {0} ||| Владелец: {0}
+Select an option... ||| Выберите вариант…

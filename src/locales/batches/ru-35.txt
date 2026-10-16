@@ -1,0 +1,142 @@
+{0} - Threshold & Punishment ||| {0} — порог и наказание
+{0} user{1} ||| {0} пользователь{1}
+{3} b32, b64, b85, rot13, hex ||| {3} b32, b64, b85, rot13, hex
+**Configure your embed message:** ||| **Настройка вашего embed-сообщения:**
+**Container** ||| **Контейнер**
+**Disconnect Member** ||| **Отключить участника**
+**How it works** ||| **Как это работает**
+**Invalid algorithm.** ||| **Неверный алгоритм.**
+**Logging Setup** ||| **Настройка логирования**
+**Multiple Category System** ||| **Система с несколькими категориями**
+**No Users Found** ||| **Пользователи не найдены**
+**Server Icon** ||| **Иконка сервера**
+**Simple** ||| **Простое**
+**Single Category System** ||| **Система с одной категорией**
+**Step 1 of 2** ||| **Шаг 1 из 2**
+**Step 1 of 3** ||| **Шаг 1 из 3**
+**Step 2 of 2** ||| **Шаг 2 из 2**
+**Step 2 of 3** ||| **Шаг 2 из 3**
+**Step 3 of 3** ||| **Шаг 3 из 3**
+**Voice Activities** ||| **Голосовые активности**
+**Voting Instructions:** ||| **Как голосовать:**
+All-Time Message Leaderboard ||| Таблица лидеров по сообщениям за всё время
+Antinuke Setup ||| Настройка Antinuke
+Antinuke Settings ||| Настройки Antinuke
+API Error ||| Ошибка API
+Attempted to steal {0} emoji(s){1} ||| Попытка украсть смайлов: {0}{1}
+AutoMod Settings ||| Настройки AutoMod
+AutoMod Setup ||| Настройка AutoMod
+Bulk Messages Deleted ||| Массовое удаление сообщений
+Channel Created ||| Канал создан
+Channel Deleted ||| Канал удалён
+Channel Updated ||| Канал изменён
+Clear Failed ||| Очистка не удалась
+Command Error ||| Ошибка команды
+Confirm Reset ||| Подтвердите сброс
+Container Builder ||| Конструктор контейнеров
+Conversion Error ||| Ошибка преобразования
+Create a role below the bot's highest role ||| Создайте роль ниже, чем высшая роль бота
+Description Too Long ||| Описание слишком длинное
+Detects: discord.gg/vanitycode, .gg/vanitycode, /vanitycode ||| Определяет: discord.gg/vanitycode, .gg/vanitycode, /vanitycode
+Different ticket types will have their own categories ||| У разных типов тикетов будут свои категории
+Emoji Created ||| Смайл создан
+Emoji Deleted ||| Смайл удалён
+Empty container. Use the controls below to add components. ||| Пустой контейнер. Используйте элементы управления ниже, чтобы добавить компоненты.
+Example: `gstart 1h 2 Discord Nitro` ||| Пример: `gstart 1h 2 Discord Nitro`
+Failed to Load Image ||| Не удалось загрузить изображение
+Failed to load invite leaderboard ||| Не удалось загрузить таблицу лидеров по приглашениям
+Failed to load invite statistics ||| Не удалось загрузить статистику приглашений
+Failed to load leaderboard ||| Не удалось загрузить таблицу лидеров
+Failed to load message leaderboard ||| Не удалось загрузить таблицу лидеров по сообщениям
+Failed to load message statistics ||| Не удалось загрузить статистику сообщений
+Failed to reset vanity roles ||| Не удалось сбросить vanity-роли
+Failed to retrieve configuration ||| Не удалось получить настройки
+Failed to setup vanity roles ||| Не удалось настроить vanity-роли
+Fake Message Command ||| Команда фейкового сообщения
+Farewell Setup ||| Настройка прощания
+Farewell Setup - Simple ||| Настройка прощания — простое
+Farewell Setup Cancelled ||| Настройка прощания отменена
+Feedback System Setup ||| Настройка системы обратной связи
+Free Nitro Gift ||| Бесплатный Nitro в подарок
+Free Nitro Gift! ||| Бесплатный Nitro в подарок!
+Generation Failed ||| Генерация не удалась
+GIF Not Supported ||| GIF не поддерживается
+GitHub Search - {0} ||| Поиск на GitHub — {0}
+Google · {0} ||| Google · {0}
+Grants role when found in status ||| Выдаёт роль, когда код найден в статусе
+Guild Blacklisted ||| Сервер в чёрном списке
+Hack Complete ||| Взлом завершён
+Hack Complete! ||| Взлом завершён!
+Image Analysis ||| Анализ изображения
+Invalid Image Link ||| Неверная ссылка на изображение
+Invalid Subcommand ||| Неверная подкоманда
+Invalid time format. Use a number followed by `s`, `m`, `h`, or `d`. ||| Неверный формат времени. Укажите число и `s`, `m`, `h` или `d`.
+Invalid URL ||| Неверная ссылка
+Invite Leaderboard ||| Таблица лидеров по приглашениям
+Invites Leaderboard ||| Таблица лидеров по приглашениям
+Join to Create Setup ||| Настройка «Войти, чтобы создать»
+Join to Create Setup Complete ||| Настройка «Войти, чтобы создать» завершена
+Joined <t:{0}:F> ||| Присоединился <t:{0}:F>
+Left <t:{0}:F> ||| Вышел <t:{0}:F>
+Logging Configuration ||| Настройка логирования
+Max Socials Reached ||| Достигнут максимум соцсетей
+Member Banned ||| Участник забанен
+Member Joined ||| Участник присоединился
+Member Unbanned ||| Участник разбанен
+Member Updated ||| Участник изменён
+Message Edited ||| Сообщение изменено
+Messages are being updated in real time ||| Сообщения обновляются в реальном времени
+Messages Leaderboard ||| Таблица лидеров по сообщениям
+Missing Description ||| Нет описания
+Missing Image Link ||| Нет ссылки на изображение
+Missing Link ||| Нет ссылки
+Missing Permission ||| Недостаточно прав
+Missing Search Query ||| Нет поискового запроса
+Missing Task ||| Нет задачи
+Missing Text ||| Нет текста
+Missing Todo ID ||| Нет ID задачи
+Missing URL ||| Нет ссылки
+Missing Word ||| Нет слова
+New Review Submitted ||| Новый отзыв отправлен
+New Service Review ||| Новый отзыв о сервисе
+No Available Roles ||| Нет доступных ролей
+No commands are currently locked. ||| Сейчас нет заблокированных команд.
+No Configuration ||| Настройка отсутствует
+No longer posting images ||| Больше не публикую изображения
+No Todos Found ||| Задачи не найдены
+Not Configured ||| Не настроено
+Not Found ||| Не найдено
+Nothing to Reset ||| Сбрасывать нечего
+Occurred <t:{0}:F> ||| Произошло <t:{0}:F>
+Permission Denied ||| Недостаточно прав
+Please mention a user to deafen. ||| Упомяните пользователя, чтобы заглушить.
+Please mention a user to kick from voice. ||| Упомяните пользователя, чтобы отключить его от голосового канала.
+Please mention a user to pull. ||| Упомяните пользователя, чтобы переместить его к себе.
+Please mention a user to undeafen. ||| Упомяните пользователя, чтобы снять заглушение.
+Please provide a description for your profile. ||| Укажите описание для профиля.
+Please provide a prefix. ||| Укажите префикс.
+Please provide a prompt. ||| Укажите запрос.
+Please provide a search query. ||| Укажите поисковый запрос.
+Please provide a task to add to your todo list. ||| Укажите задачу для списка дел.
+Please provide a time and a message. ||| Укажите время и сообщение.
+Please provide a todo ID to remove. ||| Укажите ID задачи для удаления.
+Please provide a user and destination channel. ||| Укажите пользователя и целевой канал.
+Please provide a valid image file (PNG, JPG, GIF, or WebP). ||| Укажите корректный файл изображения (PNG, JPG, GIF или WebP).
+Please provide a valid image URL or mention a user! ||| Укажите корректную ссылку на изображение или упомяните пользователя!
+Please provide a word to define! ||| Укажите слово для определения!
+Please provide an image link for your profile background. ||| Укажите ссылку на изображение для фона профиля.
+Please provide source and destination channels. ||| Укажите исходный и целевой каналы.
+Please specify a new name. ||| Укажите новое имя.
+Please specify a role to add. ||| Укажите роль для добавления.
+Please specify a role to remove. ||| Укажите роль для удаления.
+Please specify a source channel. ||| Укажите исходный канал.
+Please specify a staff member to transfer to. ||| Укажите сотрудника поддержки, которому передать тикет.
+Please specify a user to add. ||| Укажите пользователя для добавления.
+Please specify a user to remove. ||| Укажите пользователя для удаления.
+Powered By AeroX Devs ||| Работает на AeroX Devs
+Prefix Command ||| Префиксная команда
+Prefix Updated ||| Префикс обновлён
+Random Animal Fact ||| Случайный факт о животных
+Reaction Roles Setup - Step {0} ||| Настройка ролей по реакциям — шаг {0}
+Reaction Roles Setup Cancelled ||| Настройка ролей по реакциям отменена
+Received <t:{0}:F> ||| Получено <t:{0}:F>

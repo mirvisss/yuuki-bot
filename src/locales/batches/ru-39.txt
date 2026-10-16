@@ -1,0 +1,3 @@
+Account Created: ||| Аккаунт создан:
+Join [Support Server]({url}) For Help ||| Вступите в [сервер поддержки]({url}) за помощью
+NoPrefix ||| Без префикса

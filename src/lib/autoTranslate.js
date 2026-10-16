@@ -243,6 +243,24 @@ function translateText(text, words = dictionary(), depth = 0) {
                 return text.replace(trimmed, () => `${wrapped.leading}${inner}${wrapped.trailing}`);
             }
         }
+
+        // Несколько предложений в одной строке: «Failed to lock channel. Please try again later.»
+        const sentences = trimmed.split(/(?<=[.!?…])\s+/);
+        if (sentences.length > 1) {
+            let changed = false;
+            const parts = sentences.map((sentence) => {
+                const direct = lookup(words, sentence);
+                if (direct) {
+                    changed = true;
+                    return fillTokens(direct.translation, direct.tokens, depth);
+                }
+                const translatedSentence = translateText(sentence, words, depth + 1);
+                if (translatedSentence !== sentence) changed = true;
+                return translatedSentence;
+            });
+            if (changed) return text.replace(trimmed, () => parts.join(' '));
+        }
+
         recordMiss(text);
         return text;
     }
@@ -390,9 +408,34 @@ function install() {
         for (const method of methods) wrapMethod(target, method);
     }
 
-    // 2. Ответы на взаимодействия: /команды, кнопки, меню
-    const interactions = ['reply', 'editReply', 'update', 'followUp', 'showModal'];
-    for (const method of interactions) wrapMethod(discord.Interaction?.prototype, method);
+    // 2. Ответы на взаимодействия: /команды, кнопки, меню, модальные окна, автодополнение.
+    //    В discord.js нет класса Interaction — методы reply/editReply/followUp/update живут
+    //    на конкретных классах (CommandInteraction, MessageComponentInteraction и т.д.),
+    //    поэтому перечисляем их явно. Без этого ответы на слэш-команды и ephemeral-сообщения
+    //    уходили бы по-английски.
+    const interactionTargets = [
+        'BaseInteraction', 'CommandInteraction', 'ChatInputCommandInteraction',
+        'ContextMenuCommandInteraction', 'MessageContextMenuCommandInteraction',
+        'UserContextMenuCommandInteraction', 'PrimaryEntryPointCommandInteraction',
+        'MessageComponentInteraction', 'ButtonInteraction', 'SelectMenuInteraction',
+        'StringSelectMenuInteraction', 'UserSelectMenuInteraction', 'RoleSelectMenuInteraction',
+        'ChannelSelectMenuInteraction', 'MentionableSelectMenuInteraction',
+        'ModalSubmitInteraction', 'AutocompleteInteraction',
+        'InteractionResponse', 'InteractionWebhook'
+    ];
+    const interactionMethods = ['reply', 'editReply', 'followUp', 'update', 'showModal', 'respond',
+                                'create', 'edit', 'send', 'editMessage'];
+    let interactionHooks = 0;
+    for (const name of interactionTargets) {
+        const target = discord[name]?.prototype;
+        if (!target) continue;
+        for (const method of interactionMethods) {
+            if (wrapMethod(target, method)) interactionHooks++;
+        }
+    }
+    if (interactionHooks === 0) {
+        console.error('[i18n] Не удалось перехватить ответы на взаимодействия — проверьте версию discord.js');
+    }
 
     // 3. Обычные сообщения: префиксные команды, оповещения, логи
     wrapMethod(discord.Message?.prototype, 'reply');

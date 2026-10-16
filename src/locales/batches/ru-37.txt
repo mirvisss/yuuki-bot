@@ -1,0 +1,145 @@
+Input: ||| Ввод:
+Encoded: ||| Закодировано:
+Result: ||| Результат:
+Formats: ||| Форматы:
+Binary: ||| Двоичный код:
+Supported: ||| Поддерживается:
+Price ||| Цена
+24h Change ||| Изменение за 24 часа
+Market Cap ||| Капитализация
+Volume ||| Объём
+review channel ||| канал отзывов
+Review Channel: ||| Канал отзывов:
+Log Channel: ||| Канал логов:
+User: ||| Пользователь:
+E-Mail: ||| Почта:
+Password: ||| Пароль:
+Hacked by: ||| Взломал:
+Author: ||| Автор:
+Subreddit: ||| Сабреддит:
+URL: ||| Ссылка:
+Status: ||| Статус:
+Original: ||| Оригинал:
+Wizzed By: ||| Заколдовал:
+Message Content ||| Содержимое сообщения
+Attachments: ||| Вложения:
+Available algorithms: ||| Доступные алгоритмы:
+Length: ||| Длина:
+Algorithm: ||| Алгоритм:
+Hash: ||| Хеш:
+Server: ||| Сервер:
+Total Admins: ||| Всего администраторов:
+Boost Level: ||| Уровень буста:
+Total Boosts: ||| Всего бустов:
+Total Bots: ||| Всего ботов:
+Total Members: ||| Всего участников:
+Sorted by: ||| Сортировка:
+Early Supporters: ||| Ранние сторонники:
+Total Emojis: ||| Всего смайлов:
+Role: ||| Роль:
+Color: ||| Цвет:
+Members: ||| Участники:
+Channel: ||| Канал:
+Total Moderators: ||| Всего модераторов:
+Humans: ||| Люди:
+Bots: ||| Боты:
+Platform: ||| Платформа:
+Custom Status: ||| Свой статус:
+Activity: ||| Активность:
+Prompt: ||| Запрос:
+Image Generated Successfully ||| Изображение успешно создано
+Generation Error ||| Ошибка генерации
+Name: ||| Имя:
+Owner: ||| Владелец:
+Created At: ||| Создан:
+Verification Level: ||| Уровень проверки:
+Channels: ||| Каналы:
+Roles: ||| Роли:
+Boost Status: ||| Статус бустов:
+Total: ||| Всего:
+Total Roles: ||| Всего ролей:
+Uptime ||| Время работы
+Started ||| Запущен
+Websocket ||| WebSocket
+Username ||| Имя пользователя
+Display Name ||| Отображаемое имя
+Account Created ||| Аккаунт создан
+Joined Server ||| Присоединился к серверу
+Server Nickname ||| Ник на сервере
+Status ||| Статус
+Role Count ||| Количество ролей
+Highest Role ||| Высшая роль
+All Roles ||| Все роли
+Users: ||| Пользователи:
+Servers: ||| Серверы:
+Missing Reason ||| Нет причины
+Invalid Reason ||| Неверная причина
+Already AFK ||| Уже в AFK
+Reason: ||| Причина:
+Since: ||| С:
+Timed Out ||| Тайм-аут
+Moderator: ||| Модератор:
+Given by: ||| Выдал:
+Locked by: ||| Заблокировал:
+Moderate Members ||| Модерировать участников
+Duration: ||| Длительность:
+Removed by: ||| Снял:
+Messages Deleted: ||| Удалено сообщений:
+Added by: ||| Добавил:
+Unlocked by: ||| Разблокировал:
+Unmuted by: ||| Снял мут:
+Output ||| Вывод
+New Bio: ||| Новое описание:
+Type: ||| Тип:
+Created: ||| Создан:
+Position: ||| Позиция:
+Category: ||| Категория:
+NSFW: ||| NSFW:
+Slowmode: ||| Слоумод:
+Bitrate: ||| Битрейт:
+User Limit: ||| Лимит пользователей:
+Topic: ||| Тема:
+Animated: ||| Анимированный:
+Mention: ||| Упоминание:
+Static: ||| Статичный:
+Joined: ||| Присоединился:
+Join Position: ||| Позиция при входе:
+Administrator ||| Администратор
+Total Permissions: ||| Всего прав:
+Percentage: ||| Процент:
+Roles with Members: ||| Роли с участниками:
+Empty Roles: ||| Пустые роли:
+Managed Roles: ||| Управляемые роли:
+Hoisted Roles: ||| Отображаемые отдельно роли:
+Mentionable Roles: ||| Упоминаемые роли:
+Hoisted: ||| Отображается отдельно:
+Mentionable: ||| Упоминаемая:
+Managed: ||| Управляемая:
+Permissions: ||| Права:
+Icon URL: ||| Ссылка на иконку:
+User Banner ||| Баннер пользователя
+Question: ||| Вопрос:
+React below to vote! ||| Голосуйте реакцией ниже!
+Dictionary ||| Словарь
+Dictionary Error ||| Ошибка словаря
+Input Text: ||| Входной текст:
+Security Note: ||| Замечание по безопасности:
+Action Taken: ||| Принятые меры:
+Time: ||| Время:
+Action: ||| Действие:
+Thanks ||| Спасибо
+Oi Stop! ||| Эй, стой!
+Threshold: ||| Порог:
+Punishment: ||| Наказание:
+Enabled Modules: ||| Включённые модули:
+all events ||| все события
+Log channel set to: ||| Канал логов установлен:
+No channel selected ||| Канал не выбран
+Enabled Protections: ||| Включённые защиты:
+Message: ||| Сообщение:
+log channel ||| канал логов
+Rating: ||| Оценка:
+Reviewed by: ||| Отзыв от:
+Feedback: ||| Отзыв:
+Prize: ||| Приз:
+Total Entries: ||| Всего заявок:

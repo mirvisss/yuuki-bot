@@ -1,0 +1,133 @@
+voice channel ||| голосовой канал
+category ||| категория
+Control Panel: ||| Панель управления:
+Trigger Channel: ||| Канал-триггер:
+Message Logs: ||| Логи сообщений:
+Member Logs: ||| Логи участников:
+Moderation Logs: ||| Логи модерации:
+Server Logs: ||| Логи сервера:
+Voice Logs: ||| Логи голосовых каналов:
+Available Roles: ||| Доступные роли:
+Message ID: ||| ID сообщения:
+Ticket ID: ||| ID тикета:
+Ticket: ||| Тикет:
+Claimed by: ||| Взял:
+Closed by: ||| Закрыл:
+Reopened by: ||| Открыл заново:
+Deleted by: ||| Удалил:
+Before: ||| Было:
+After: ||| Стало:
+Executor: ||| Исполнитель:
+Created By: ||| Создал:
+Server ID: ||| ID сервера:
+Deleted By: ||| Удалил:
+Auto-Archive Duration: ||| Автоархивация:
+Default Thread Slowmode: ||| Слоумод веток по умолчанию:
+Voice Region: ||| Регион голоса:
+Video Quality: ||| Качество видео:
+Updated By: ||| Изменил:
+Changes: ||| Изменения:
+Icon: ||| Иконка:
+Emoji: ||| Смайл:
+Permissions Added: ||| Добавленные права:
+Permissions Removed: ||| Удалённые права:
+Banner: ||| Баннер:
+Splash: ||| Заставка:
+Content Filter: ||| Фильтр контента:
+Default Notifications: ||| Уведомления по умолчанию:
+AFK Channel: ||| AFK-канал:
+AFK Timeout: ||| Тайм-аут AFK:
+System Channel: ||| Системный канал:
+Rules Channel: ||| Канал правил:
+Description: ||| Описание:
+Vanity URL: ||| Vanity-ссылка:
+Boost Progress Bar: ||| Полоса прогресса бустов:
+Sticker: ||| Стикер:
+Tags: ||| Теги:
+Username: ||| Имя пользователя:
+Display Name: ||| Отображаемое имя:
+Avatar: ||| Аватар:
+Nickname: ||| Ник:
+Changed By: ||| Изменил:
+Roles Added: ||| Добавленные роли:
+Roles Removed: ||| Удалённые роли:
+Timeout: ||| Тайм-аут:
+Timed Out By: ||| Отправил в тайм-аут:
+Removed By: ||| Снял:
+Verification: ||| Проверка:
+Account Age: ||| Возраст аккаунта:
+Banned By: ||| Забанил:
+Unbanned By: ||| Разбанил:
+Kicked By: ||| Исключил:
+From: ||| Откуда:
+Self Mute: ||| Самостоятельный мут:
+Self Deaf: ||| Самостоятельное заглушение:
+Server Mute: ||| Мут от сервера:
+Server Deaf: ||| Заглушение от сервера:
+Streaming: ||| Стримит:
+Camera: ||| Камера:
+Welcome Back ||| С возвращением
+Mentioned While AFK ||| Упоминание в AFK
+Your Question: ||| Ваш вопрос:
+Analysis: ||| Анализ:
+Server Owner ||| Владелец сервера
+Whitelisted Users: ||| Пользователи в белом списке:
+Disabled Modules: ||| Отключённые модули:
+Interval: ||| Интервал:
+Delete After: ||| Удалить через:
+Last Bump: ||| Последний бамп:
+Message Preview: ||| Предпросмотр сообщения:
+Whitelisted: ||| В белом списке:
+Bad Words: ||| Запрещённые слова:
+Active Protections: ||| Активные защиты:
+New Winners! ||| Новые победители!
+New Winners: ||| Новые победители:
+Winners: ||| Победители:
+Ends: ||| Заканчивается:
+Hosted by: ||| Организатор:
+Prefix for this server: ||| Префикс этого сервера:
+Set prefix with: ||| Установите префикс командой:
+Join [Support Server]({0}) For Help ||| Вступите в [сервер поддержки]({0}) за помощью
+Today ||| Сегодня
+J2C Channel: ||| Канал J2C:
+text channel ||| текстовый канал
+Button Usage ||| Использование кнопок
+logging config ||| logging config
+logging reset ||| logging reset
+Total Users: ||| Всего пользователей:
+Bypassed Users: ||| Пользователи в обходе:
+Can now: ||| Теперь может:
+Restriction: ||| Ограничение:
+Configured Channel: ||| Настроенный канал:
+Channel ID: ||| ID канала:
+Important: ||| Важно:
+Tip: ||| Подсказка:
+Current length: ||| Текущая длина:
+Amount: ||| Количество:
+Filter: ||| Фильтр:
+Filters: ||| Фильтры:
+Examples: ||| Примеры:
+Manage Guild ||| Управлять сервером
+Emoji-Role Pairs: ||| Пары «смайл — роль»:
+10 seconds ||| 10 секунд
+Added User: ||| Добавлен пользователь:
+All support roles: ||| Все роли поддержки:
+Removed User: ||| Удалён пользователь:
+Remaining support roles: ||| Оставшиеся роли поддержки:
+Old Name: ||| Старое имя:
+New Name: ||| Новое имя:
+Renamed by: ||| Переименовал:
+Reset by: ||| Сбросил:
+Setup Type: ||| Тип настройки:
+Transferred by: ||| Передал:
+Aliases: ||| Синонимы:
+Vanity Code: ||| Vanity-код:
+Users with Role: ||| Пользователи с ролью:
+Setup Date: ||| Дата настройки:
+Command: ||| Команда:
+Options: ||| Параметры:
+Context: ||| Контекст:
+Ended: ||| Завершён:
+Limit: ||| Лимит:
+Creator: ||| Автор:
+Closed: ||| Закрыт:
